@@ -1,0 +1,4153 @@
+{
+ "_doc": "Images the Prairie 1904 library links but does not hold, queued for reference copies (owner, 2026-10-11: bring them in with attribution; kevinrhaas/chicago T-2368). tools/fetch_queue.py fetches each into prairie-1904/files/ and records the outcome in fetch-results.json.",
+ "queue": [
+  {
+   "id": "a16-ghm-blog-1637-grosvenor-asbuilt",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4xFKKiKJ-3QdmB3_jcIC8lbOSjwVuscN_aSprKt3-1ifeOKgfKyi8_OMVnVtcOJ_MPdtifICGiawcGgHSAhbIG-U8Mi5pA3zC6piTqwMIhWRnmyDJ9bEF5wzSlWetJZDFGlVx4G3aIh8/s1600/1637+Prairie+as+built.JPG",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "South side of the Grosvenor house as built, c. 1870",
+    "creator": "unknown photographer",
+    "date": "c. 1870",
+    "repository": "reproduced by Glessner House Museum (blog 'The Story of a House'); original holder not named",
+    "collection": "The Early History of Prairie Avenue – Part IV (2020-07-07)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/07/the-early-history-of-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1637-45"
+   ],
+   "kind": "photograph",
+   "view": "side elevation"
+  },
+  {
+   "id": "a16-ghm-blog-1637-spalding-remodel",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBhkRJ1wq-I3MJENxaixlZxoQq-YLUU3JMD7c_G6LMUindoJGuHGpTchRncX6Ww5OIigczaxo1RCt-DyKJBJ4k7di-bFdKMCxzzpdcUDP2wGxIfRf-JgUNAPbO3TI4V36eDHsElzPC4pg/s1600/1637+Prairie+after+remodeling.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "The Grosvenor house as remodeled by Jesse Spalding",
+    "creator": "unknown illustrator (published line engraving)",
+    "date": "undated (after Spalding remodelling; probably 1880s–1890s)",
+    "repository": "reproduced by Glessner House Museum (blog 'The Story of a House'); source publication not named",
+    "collection": "The Early History of Prairie Avenue – Part IV (2020-07-07)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/07/the-early-history-of-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1637-45"
+   ],
+   "kind": "engraving",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-ghm-blog-1736-mcbirney-c1890",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk_XdVUdRp0DxwIX8-KHpzC9C6CftZoZNVuiBUWxgY99rlCEV0sNKgZCRnWjyolKtc4jiU6c5IhDc6LnD8IMgLglRy5VT7cV_pNN0ZCc2kR1Ss98FJbMSBYWOg4PqmItlafDd5fZsvbcE/s1600/1736+PA+front.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Ingraham/McBirney house as it appeared circa 1890",
+    "creator": "unknown photographer",
+    "date": "circa 1890",
+    "repository": "reproduced by Glessner House Museum (blog); original holder not named",
+    "collection": "The Early History of Prairie Avenue – Part IV (2020-07-07)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/07/the-early-history-of-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1736-49"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-ghm-blog-1702-staples",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghvjgzH2unWtw9NLsvZcjgz74JvwakbWFJFfCHJOV8czjifnEyoLbmk6qeU3eVag8Tjwwss94H5BpQzDqz9ZrJ3pwz5778n8ekxql12DEli35loJiW7k09gR4iNN5mfwcV3zcC4fnpSkw/s1600/Staples.JPG",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Staples house – 1702 S. Prairie Avenue",
+    "creator": "unknown photographer",
+    "date": "undated (before the 1880 Harvey remodelling)",
+    "repository": "reproduced by Glessner House Museum (blog); original holder not named",
+    "collection": "The Early History of Prairie Avenue – Part II (2020-06-23)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/06/the-early-history-of-prairie-avenue_23.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1702-43"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-ghm-blog-massacre-tree-pullman-coachhouse",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOrA4Gzxa7v1S1SJVhlBGJr2IUtOfLyv0C39yEZOYwacTzNmis0nMSLcVhc1lVi631RuFSSiNZTeUVBkapqsUQwbl5_gyuLxgazxZCb5MAEukvelX5aTOaUMwt6CTeJV2U3546nNJ1bvk/s1600/Massacre+Tree.JPG",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Massacre tree, north side of 18th Street east of Prairie Avenue, with the Pullman coach house at left]",
+    "creator": "unknown engraver",
+    "date": "1880s (per blog)",
+    "repository": "reproduced by Glessner House Museum (blog)",
+    "collection": "The Early History of Prairie Avenue – Part I (2020-06-16)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/06/the-early-history-of-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "engraving",
+   "view": "street view"
+  },
+  {
+   "id": "a16-ghm-blog-pullman-completed",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4ypNg29_Gr4d-dh8Tc260BpLvS1eQ2H5bZScPx9jJx8Njzb9W8L-6ReaH5OzWhoDERpa462SG2dKpRiqPex-u3Cz9Jruf5Gyi6EnudZlssRG0wtiNiVwbC7WuYYP2oWZdqh4LLfmGLcI/s1600/Pullman+house+completed.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[George M. Pullman residence, 1729 S. Prairie Avenue, completed — 'photo of the finished house']",
+    "creator": "unknown photographer (halftone reproduction from a publication)",
+    "date": "undated (after the 1892 Beman additions; probably 1890s)",
+    "repository": "reproduced by Glessner House Museum (blog); original source not named",
+    "collection": "Prairie Avenue in 1874 (2014-06-16)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/06/prairie-avenue-in-1874.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-ghm-blog-1701-hibbard-front",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNmLyk7i91upepxrGBtduTKeOJ9syWo3aiPza_jNM888QlhnppEURlS0vpJUA03uBgIizfbhdo40e1ABR69mAJ1KCy2GMdeZuPBXbnF665gawTNAn6viWvrTSmo2lqBkGdpmwRmrrOwA/s1600/1701+PA.JPG",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[William G. Hibbard house, 1701 S. Prairie Avenue — front]",
+    "creator": "unknown photographer (halftone)",
+    "date": "undated (after the 1874 addition; probably 1890s)",
+    "repository": "reproduced by Glessner House Museum (blog); original source not named (probably Addie Hibbard Gregory, A Great-Grandmother Remembers, 1940)",
+    "collection": "Prairie Avenue in 1874 (2014-06-16)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/06/prairie-avenue-in-1874.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1701-3"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-ghm-blog-1701-hibbard-rear",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_CMJkY8X8GcXmYyizUGzMV7VVs7gm8JANjrAARDBRP6xSXQWrX8xJwRHMg8kWHPDQia13rZ68HoD93O_xpDTg09f4CQ7PPTxxoICX8dRFGDgBpf0SDUaz5KNLkRaMHv8-Tyh8ChN_ABk/s1600/1701+PA+rear.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[William G. Hibbard house, 1701 S. Prairie Avenue — rear (east) side with the 1874 addition]",
+    "creator": "unknown photographer (halftone)",
+    "date": "undated (after 1874; probably 1880s–1890s)",
+    "repository": "reproduced by Glessner House Museum (blog); original source not named",
+    "collection": "Prairie Avenue in 1874 (2014-06-16)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/06/prairie-avenue-in-1874.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1701-3"
+   ],
+   "kind": "photograph",
+   "view": "rear"
+  },
+  {
+   "id": "a16-cgy-1612-studebaker-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1612prairiestudebaker.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "1612 S. Prairie Ave.",
+    "creator": "unknown photographer",
+    "date": "undated (probably c.1900–1930)",
+    "repository": "Chicagology (secondary reproduction; original holder not named)",
+    "collection": "chicagology.com — Prairie Avenue, 1612 S. Prairie",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1612prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1612-1"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a16-cgy-1638-gothic-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1638prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[1638 S. Prairie Avenue — Shortall / Gregory house]",
+    "creator": "unknown photographer (halftone)",
+    "date": "undated",
+    "repository": "Chicagology (secondary reproduction; original holder not named)",
+    "collection": "chicagology.com — Prairie Avenue, 1638 S. Prairie",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1638prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1638-2"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a16-cgy-hibbardville-map-1940",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/agreatgrandmotherremembersgraphic194hibbardville.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "\"Hibbardville\" (sketch map, Stirling Dickinson, great-grandson) — from Addie Hibbard Gregory, A Great-Grandmother Remembers (1940)",
+    "creator": "Stirling Dickinson (drawing); Addie Hibbard Gregory (book)",
+    "date": "1940 (publication); depicts the neighbourhood of the author's childhood and later years, not a single date",
+    "repository": "Chicagology (secondary reproduction); book: A. H. Gregory, A Great-Grandmother Remembers (Chicago: A. Kroch, 1940)",
+    "collection": "chicagology.com — 1638 and 1701 pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1638prairie/",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1638-2",
+    "pa-1635-48",
+    "pa-1637-45",
+    "pa-1701-3",
+    "pa-1709-46",
+    "pa-1721-4",
+    "pa-1729-5",
+    "pa-1702-43",
+    "pa-1720-55",
+    "pa-1736-49",
+    "pa-1800-22",
+    "pa-1801-23"
+   ],
+   "kind": "publication plate",
+   "view": "map"
+  },
+  {
+   "id": "a16-cgy-1701-hibbard-engraving",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1701prairieavehibbard.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[1701 S. Prairie Ave., William G. Hibbard residence — engraving]",
+    "creator": "unknown engraver",
+    "date": "undated (probably 1880s–1890s publication)",
+    "repository": "Chicagology (secondary reproduction; source publication not named)",
+    "collection": "chicagology.com — 1701 S. Prairie",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1701prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1701-3"
+   ],
+   "kind": "engraving",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-cgy-1700-1706-townhouses",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1702and1706prairieavenue.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Left: 1706 S. Prairie Avenue / Right: 1700 S. Prairie Avenue.",
+    "creator": "unknown photographer",
+    "date": "undated (after 1902)",
+    "repository": "Chicagology (secondary reproduction; original holder not named — possibly Glessner House Museum)",
+    "collection": "chicagology.com — 1706 S. Prairie",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1706prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1700-52",
+    "pa-1706-53",
+    "pa-1638-2",
+    "pa-1708-54"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a16-cgy-1609-loft-1910",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1609prairie1910.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[1609–1611 S. Prairie Avenue — the 1910 E. T. Cade loft building (arrow), with the 1600 block east side]",
+    "creator": "unknown photographer",
+    "date": "after 1910 (shows the 1910 loft building; automobile/truck at far left)",
+    "repository": "Chicagology (secondary reproduction; original holder not named)",
+    "collection": "chicagology.com — 1609 S. Prairie",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1609prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1609-1904-correction",
+    "pa-1611-1904-correction"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a16-cgy-1729-dailynews-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/1729prairiedailynews.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[1729 S. Prairie — Pullman residence, glass-negative photograph (chicagology file '1729prairiedailynews')]",
+    "creator": "Chicago Daily News photographer (attribution inferred from file name and the handwritten negative caption at right edge)",
+    "date": "undated (Chicago Daily News negative series is 1902–1933; a 'KODAK' sign is visible on a building at far left)",
+    "repository": "probably Chicago History Museum, Chicago Daily News negatives collection; reproduced on chicagology",
+    "collection": "chicagology.com — 1729 S. Prairie",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1729prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-cgy-1729-beman-addition",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/1729prairieaddition.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "1729 Prairie Addition",
+    "creator": "unknown photographer (halftone)",
+    "date": "undated (after the 1892 Beman addition)",
+    "repository": "Chicagology (secondary reproduction; original publication not named)",
+    "collection": "chicagology.com — 1729 S. Prairie",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1729prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "side elevation"
+  },
+  {
+   "id": "a16-ghm-blog-1720-tyrrell-house",
+   "url": "https://blogger.googleusercontent.com/img/a/AVvXsEhd4TsxKwWFq2KdCknG6XD4M5gpU4tcQ8sqbTXGZvVtZEWI8BrNuTFgPPrPb5e9pd-0wUQA22XI9lj7t5P4zxkhla4SvsdfOfdqPqE8iQHqUpxOk6CtKu3jqJWCYlcjNApGGctQ5hE1UK8oa6AvrklVHiwWMOBnBnLJwMqBLscX0K5n75jDwVBHZn-P=s1600",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[John Tyrrell house, 1720 S. Prairie Avenue (Otis L. Wheelock, 1868)]",
+    "creator": "unknown photographer",
+    "date": "undated (19th century)",
+    "repository": "reproduced by Glessner House Museum (blog); original holder not named",
+    "collection": "Burley & Tyrrell, Chicago's Forgotten Retailer (2022-01-18)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/01/burley-tyrrell-chicagos-forgotten.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1720-55"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a16-ghm-blog-1730-otis-1940s",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5eTJdPwcYKB3AqnfaWFI7pmbwrgH0fwVL_-txQv4wE1GVBr7NB835Xru_JteNFdV3p9K4j87yWEbX7EqaXPQO20eiLIbjj8-eT_YQ5aLzgobTB3fbAyAaoiLGQXu6yY5uk02heiIAXdM/s1600/1730+PA.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "The same block in the early 1940s. The new Eastman Kodak plant is visible at right; the Joseph E. Otis house at 1730 S. Prairie Avenue, pictured, was demolished in 1946.",
+    "creator": "unknown photographer",
+    "date": "early 1940s",
+    "repository": "reproduced by Glessner House Museum (blog); original holder not named",
+    "collection": "Kodak plant demolition begins (2015-03-10)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/03/kodak-plant-demolition-begins.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a16-ghm-blog-1720-walker-curbstone-2015",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh6IGimO34n7lxFzoxztaEkd7gBanxO0JMvm8By7rXYqhbuXDGoDJi3pdaL3fmA5p7_obFioGRYSAWTTcClXGXm4oX_2o8YYHmornFA8dBDQtCgiPRAaAC8Ca8nnQ6utlYIrtM7nirLCw/s1600/Walker+curbstone.JPG",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Walker curbstone, 1720 S. Prairie Avenue",
+    "creator": "Glessner House Museum (blog author)",
+    "date": "2015 (posted March 10, 2015)",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Kodak plant demolition begins (2015-03-10)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/03/kodak-plant-demolition-begins.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1720-55"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a16-ghm-blog-1736-mcbirney-curbstone-2015",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkLLnRSZ_pouv36rLssLnfMxPzEA7lFqIs_yr0LMYwVfKWPQjMiAC3NuEnYYd5ED57b7kFAFj-JALrdfiHm1rP0ui448DryP9n1xLSht7pAA-TORWwjIbCMqsjp40obpg0fTuWacTpFcw/s1600/McBirney+curbstone.JPG",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "McBirney curbstone, 1736 S. Prairie Avenue",
+    "creator": "Glessner House Museum (blog author)",
+    "date": "2015 (posted March 10, 2015)",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Kodak plant demolition begins (2015-03-10)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/03/kodak-plant-demolition-begins.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1736-49"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a16-ghm-blog-pullman-terrace",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyNlEB1ZDeSxpOoymfLcm8I6dZjZ9WGFfMyFkt_si9St4rWoV84FjEFS9bMNd79MFzWx5de1j1zpTI-yp_86eRIM-FhAuAMadANm_UIJROj9jubRJFVMg8wAYbZPKhw-g2TMx4tc3tlBc/s1600/12-03-05+Pullman+terrace.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Pullman house — the 1892 terrace and palm-room addition]",
+    "creator": "unknown photographer",
+    "date": "undated (after 1892)",
+    "repository": "reproduced by Glessner House Museum (blog)",
+    "collection": "The Pullmans of Prairie Avenue (2012-03-05)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2012/03/pullmans-of-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "side elevation"
+  },
+  {
+   "id": "a16-ghm-blog-pullman-drawing-room",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ53qT3zsHRaj0UDtw_1DVMR6WQsoDuEVSWE80JzFmbfMEMyi-WWh1D5OHc39li-yp2Jazf9DmrA2UHUi_0w6XznIO11DktLJ2RgXVioZwmBdNEGmCzxqMrqPIWpFGjXv_JaiBLm74myQ/s1600/12-03-05+Pullman+drawing+room.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Pullman house — drawing room]",
+    "creator": "unknown photographer",
+    "date": "undated (probably after the 1892 redecoration)",
+    "repository": "reproduced by Glessner House Museum (blog)",
+    "collection": "The Pullmans of Prairie Avenue (2012-03-05)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2012/03/pullmans-of-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a16-ghm-blog-1701-sullivan-post",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp0f9qolHpNmWzqp_OeQBqrRUGLjgU2M9Hk75WB_qy6RS4ZYm_RdpflLFEWOgRLLEjycUOxy5ldKO-HV3wGOtr90wfYg5Yt3WxJfcLtfEXvIlpUxDC80u2qPl01cmFQPvtNUGrUxFfAds/s1600/6+-+1701+Prairie+Avenue.JPG",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "1701 S. Prairie Avenue (William Le Baron Jenney, 1868)",
+    "creator": "unknown photographer (halftone)",
+    "date": "undated (19th century; probably 1880s–1890s)",
+    "repository": "reproduced by Glessner House Museum (blog); source not named",
+    "collection": "Prairie Avenue and Louis Sullivan – Part II (2020-06-09)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/06/prairie-avenue-and-louis-sullivan-part.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1701-3"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-ghm-blog-pullman-wall-1981",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJYoNPYZPo1VzISlhS6BPwk9W7r7-BhYTbwLDl8UZ7eXNKOzUiSV2iHye1K4-fHXG5sa8X9dTTM5Pa1955NrE77tDXRX6hvUUk2y-6RA3KxsCxUObotDkmLa_rYI7JZwrsk9g8jBnDiQ/s1600/6-Pullman+wall.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Remnant of George Pullman's brownstone garden wall, 1981]",
+    "creator": "William Tyre",
+    "date": "June 1981",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Flashback 1981 – Glessner House and Prairie Avenue (2016-06-07)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a16-ghm-blog-pullman-site-garage-1981",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdu3fpqEawMsVklNoeN8ke6v4TGZuXT3KIgTmMY43PhbsNXPPRH8CapBRBlhtHg3eOG4H66EZm-LR8-Px6-VIaAYeJHajGbZQA_P4Ol0wPxr7ig8FCRX4fZ04hIsB9cJUX7Kb69vhQkKM/s1600/6-Bus+garage.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Northeast corner of Prairie Avenue and 18th Street, site of the Pullman mansion — brick bus garage, 1981]",
+    "creator": "William Tyre",
+    "date": "June 1981",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Flashback 1981 – Glessner House and Prairie Avenue (2016-06-07)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a16-aic-taylor-fort-dearborn-monument-1893",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:38868/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Fort Dearborn Monument",
+    "creator": "J. W. Taylor (Chicago) [photo album #1, p. 88 of 100]",
+    "date": "1893",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (Architecture Photograph Collection; purchased 2012)",
+    "collection": "Historic Architecture and Landscape Image Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/38868",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a16-aic-lantern-fort-dearborn-monument",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:37577/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Fort Dearborn Monument",
+    "creator": "unknown",
+    "date": "undated (monument 1893; lantern slide, probably 1890s–1920s)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (Architecture Lantern Slide Collection)",
+    "collection": "Historic Architecture and Landscape Image Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/37577",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a16-newberry-conzen-prairie-elite-1886-map",
+   "url": "https://collections.carli.illinois.edu/iiif/2/nby_chicago:3207/full/1400,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Prairie Avenue: Chicago's Prairie Avenue Elite in 1886",
+    "creator": "Michael P. Conzen and Douglas Knox (Encyclopedia of Chicago map 16b)",
+    "date": "2004 (map); depicts 1886",
+    "repository": "Newberry Library (Chicago and the Midwest digital collection, via CARLI Digital Collections); published in The Encyclopedia of Chicago (University of Chicago Press / Chicago Historical Society)",
+    "collection": "Chicago and the Midwest (Newberry Library)",
+    "catalog_url": "https://collections.carli.illinois.edu/digital/collection/nby_chicago/id/3207",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1612-1",
+    "pa-1620-1904-correction",
+    "pa-1630-50",
+    "pa-1637-45",
+    "pa-1638-2",
+    "pa-1701-3",
+    "pa-1702-43",
+    "pa-1709-s.-prairie-avenue-(successor)-47",
+    "pa-1720-55",
+    "pa-1721-4",
+    "pa-1729-5",
+    "pa-1736-49"
+   ],
+   "kind": "atlas plate",
+   "view": "map"
+  },
+  {
+   "id": "a16-aic-taylor-pullman-from-nw",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:29304/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Pullman, George M., Residence",
+    "creator": "J. W. Taylor (Chicago)",
+    "date": "c.1890s (view date)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (Architecture Photograph Collection)",
+    "collection": "Historic Architecture and Landscape Image Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/29304",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-aic-taylor-pullman-west-front-palm-house",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:29190/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Pullman, George M., Residence",
+    "creator": "J. W. Taylor (Chicago)",
+    "date": "c.1890–1910 (holder view date); content dates it 1892–May 1894",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (Architecture Photograph Collection)",
+    "collection": "Historic Architecture and Landscape Image Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/29190",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a16-aic-taylor-pullman-from-sw-palm-house",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:29313/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Pullman, George M., Residence",
+    "creator": "J. W. Taylor (Chicago)",
+    "date": "c.1890–1910 (view date)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (Architecture Photograph Collection)",
+    "collection": "Historic Architecture and Landscape Image Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/29313",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-aic-taylor-album-pullman-p69",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:38973/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Pullman, George M., Residence",
+    "creator": "J. W. Taylor (Chicago) [photo album #1, p. 69 of 100]",
+    "date": "c.1880s (holder); album c.1890s",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (Architecture Photograph Collection; purchased 2012)",
+    "collection": "Historic Architecture and Landscape Image Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/38973",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-aic-lowe-pullman-conservatory-c1897",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:76204/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Pullman, George M., Residence",
+    "creator": "unknown (Chicago History Museum original)",
+    "date": "c.1897 (view date)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (David Garrard Lowe Historic Chicago Photograph Collection; courtesy Chicago History Museum)",
+    "collection": "Lowe, David Garrard, Historic Chicago Photograph Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/76204",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a16-aic-lowe-pullman-interior-75892",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:75892/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Pullman residence interior]",
+    "creator": "unknown (Chicago History Museum original)",
+    "date": "c.1880s–1890s (holder)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (David Garrard Lowe Historic Chicago Photograph Collection; courtesy Chicago History Museum)",
+    "collection": "Lowe, David Garrard, Historic Chicago Photograph Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/75892",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a16-aic-lowe-pullman-interior-75954",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:75954/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Pullman residence — drawing room, 1922]",
+    "creator": "unknown (Chicago History Museum original)",
+    "date": "1922 (holder)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (David Garrard Lowe Historic Chicago Photograph Collection; courtesy Chicago History Museum)",
+    "collection": "Lowe, David Garrard, Historic Chicago Photograph Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/75954",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a16-aic-lowe-pullman-interior-75956",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:75956/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Pullman residence — 'Red Room']",
+    "creator": "unknown (Chicago History Museum original)",
+    "date": "c.1880s–1890s (holder)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (David Garrard Lowe Historic Chicago Photograph Collection; courtesy Chicago History Museum)",
+    "collection": "Lowe, David Garrard, Historic Chicago Photograph Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/75956",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a16-aic-lowe-pullman-interior-75955",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:75955/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Pullman residence — dining room]",
+    "creator": "unknown (Chicago History Museum original)",
+    "date": "c.1880s–1890s (holder)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (David Garrard Lowe Historic Chicago Photograph Collection; courtesy Chicago History Museum)",
+    "collection": "Lowe, David Garrard, Historic Chicago Photograph Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/75955",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a16-aic-lowe-pullman-interior-75924",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:75924/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "[Pullman residence — conservatory interior]",
+    "creator": "unknown (Chicago History Museum original)",
+    "date": "c.1892–1921 (holder)",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (David Garrard Lowe Historic Chicago Photograph Collection; courtesy Chicago History Museum)",
+    "collection": "Lowe, David Garrard, Historic Chicago Photograph Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/75924",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a16-aic-lowe-pullman-drawing-room-plan-1891",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:75925/full/2000,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Drawing Room for Mr Geo. M. Pullman. Showing arrangement of furniture by A. H. Davenport, 96 Washington St. Boston. Revised plan October 15th 1891. Scale 1/4\" = 1'",
+    "creator": "A. H. Davenport (Boston), furniture makers/decorators",
+    "date": "October 15, 1891",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (David Garrard Lowe Historic Chicago Photograph Collection; copy photograph courtesy Chicago History Museum)",
+    "collection": "Lowe, David Garrard, Historic Chicago Photograph Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/75925",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "architectural drawing",
+   "view": "plan"
+  },
+  {
+   "id": "a16-aic-reed-prairie-at-18th-looking-south-1941",
+   "url": "https://digital-libraries.artic.edu/iiif/2/mqc:65592/full/1200,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1600-1700.json",
+   "credit": {
+    "title": "Prairie Avenue",
+    "creator": "Earl H. Reed (for Chicago Plan Commission)",
+    "date": "1941–1942",
+    "repository": "Art Institute of Chicago, Ryerson and Burnham Archives (Architecture Photograph Collection)",
+    "collection": "Historic Architecture and Landscape Image Collection",
+    "catalog_url": "https://digital-libraries.artic.edu/digital/collection/mqc/id/65592",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-gh-kimball-exterior-2013",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrWESqHoreYagNFyera08X37rY7oFxmD_DInNo2CzPlnF2ydrvzLSdx9_7F-D0FV6AupI7qbKQXKlsARibv4nZqm9_DxvVDhxPY4PAOIm4RUtXhLJnyjitgB5Hh9qAIMCML7p1Srg7BEw/s1600/13-05-27+Exterior.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Kimball house exterior (2013)",
+    "creator": null,
+    "date": "2013",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/05/the-kimball-house-on-chicagos-prairie.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1801-23"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-kimball-porch-north-2013",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCeJrfJfHehXoIeCH4IxzXQJVyOfZ0-dbHnMIBmdPO5JGBiu_Z3i9eUQVWUio_nES7QpYNllXk7PC2LdBVulvp8hgpXepSALAHRnZMGQzvBuDM37SEQZ7kjePsKa5o4tWRK4f16QJ-kBk/s1600/13-05-27+Side+balcony.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "North side of the entrance porch (2013)",
+    "creator": null,
+    "date": "2013",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/05/the-kimball-house-on-chicagos-prairie.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1801-23"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a18-gh-sears-house-exterior",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgkR479_QHJkEjFkDUWpK5_mlOuPUe0RlZY9sLlNj_4br7XMxHBpn702r2wNIbpd93OziM1rTch_lkyk9a92lFkUpBnCHFIiJCtajrwwrN5jb9mMrhq_pTltLr-i5NSwc9HW5QaGi5x2Y/s1600/12-05-07+Sears+house.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Joseph Sears house, 1815 S. Prairie Avenue (historic photograph)",
+    "creator": null,
+    "date": "undated (between 1882 and 1967)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2012/05/joseph-sears-and-his-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1815-12"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-sears-house-interior",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYA0tr52SPQ4ALEPc8tNyIstBvrDYOhUBLXMaEkFD9M2iKjbYpXAwPNMpD_PgnlSlC8tBGJpQ50i_GHgn6ho0ldQB5T3VLA6_s6cEW5IVM1kQ-HjH_NDPhd-rcBQrV_9vT9iLZiGAWshQ/s1600/12-05-07+Sears+interior.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Sears house, 1815 S. Prairie Avenue: parlor interior (historic photograph)",
+    "creator": null,
+    "date": "undated (probably 1880s)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2012/05/joseph-sears-and-his-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1815-12"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a18-gh-doane-exterior",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRWQXG8S9Fg3gxlOZytNwKlx7gsnVXC2reNyGyU2d2SpcVM133grFjMsRljekr40RAQOWmLNm9pBolQr0NmHGWGNfX6b-19FXFmkha82ZZZvmKSUeNGJr-TjBoqCaJXy0n3wl6J0MJ9vM/s1600/13-08-05+1827+PA+exterior.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "John W. Doane house, 1827 S. Prairie Avenue (historic photograph)",
+    "creator": null,
+    "date": "undated (after 1882)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/08/electricity-comes-to-prairie-avenue-1882.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-14"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-doane-stairhall",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUj4mL_8lLV25sH5ON4Kw3uhrbe8tjjMWPQbHxl1J8uYqYrsSBKMDfkC5rxW5GF6eQVrC-I515BaTmor9aRX6ER2YxXND8FcXpHr3dkx1vyUo_b3ugvK3qDIoD8D3iJulyktPUvFzPKAg/s1600/13-08-05+1827+PA+stairhall.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Doane house, 1827 S. Prairie Avenue: stair hall",
+    "creator": null,
+    "date": "c. 1882–1883",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/08/electricity-comes-to-prairie-avenue-1882.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-14"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a18-gh-pomeroy-house-italianate",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHw3VOXje35goyfwzTdVF-J2HiXQbi-mEfnTQlYAUzxUZ0qJM7tfoBgHf33P2s4pe0m7mtLoat9xN9Ny5rPYi86PCMv_0keGUCT-KQoJU-aqV9H_G3k4n0d1V11fl8asMsUDbwhL2vGkQ/s1600/Pomeroy.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Pomeroy house, 1824 S. Prairie Avenue (original Italianate form)",
+    "creator": null,
+    "date": "before c. 1880 (pre-dates the new stone facade)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/06/the-early-history-of-prairie-avenue_23.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1824-8"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-shipman-1828-with-automobile",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_gjxlytGWc2IycwWDAkySurZ86bqK7mQIOVV7sbaIQjp_0DrjDqptLeh1Cxl3vSkJb8TkJmk6ZpUlYO1CdSCtcyWD9V_EcoL3vBD4q3MbdNSBDwEJhfZIqDIfnq9B2mJ9sUjbY3UhHis/s1600/Shipman+house+1828+PA.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Daniel B. Shipman house, 1828 S. Prairie Avenue, with an early automobile",
+    "creator": null,
+    "date": "c. 1897–1906 (chicagology captions it \"about 1897\"; the runabout suggests c. 1900–1905)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/06/prairie-avenue-in-1874.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-shipman-1828-partial",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv0GUPvVjIxms3qMqnB_ZT9_8T_uOy_EPwfl60Nkjtmba8Z7QBwu-UqWnxlDqDLWhyphenhyphenE9IDfwVeGxwvq1ZQ7Wto7HWCNhx8dJUxRkw1jrrUi58FCFZiRN564Pcd7B1Et9GPfIeAO1wMWDU/s1600/Shipman+house+partial.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Shipman house, 1828 S. Prairie Avenue (partial view, damaged print)",
+    "creator": null,
+    "date": "undated",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/06/prairie-avenue-in-1874.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-cornell-glessner-front-c1887",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR6FFXMYFGfGFfu_Mot7MzopYmbwIL0uAb_66L0Y6b8qvU2Ak4ix-W6OWdAnNB5_tevq3XA_pqC2W9EabqViFmCs3nC_8cUtYvVXY5TZygPnsMvIMgb-6mw6lkJzWkUgUnEtyrauhADqqHCGhwhGtRqWan-AMPPqF5C-kYlzmOYdh5sNxqpLbr5-QL/s1800/Cornell%20front.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House from the north-east, c. 1887 (albumen print, Cornell A. D. White collection; as reproduced by the museum)",
+    "creator": "Unknown photographer",
+    "date": "c. 1887",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/12/the-original-odd-quaint-queer-dutch.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-cornell-glessner-rear-c1887",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0W8l_hxJ6n-OD0Pm1I3no0LL8nG6Wc5cuPM8tFyfjCgwZFhqNKqJ1V9mA8aM0nMrH9VLEY_e63y-eARCWVNYNWF1ZuDZIKoTWPlqlf-ROIec_L44cPx6NAyLJwU_Gk8w9-VxYPAIWMQAPxR83FXJF-ca7gNHUnDwQFnpfx6W16n2M07UcFqnIBOUo/s1800/Cornell%20rear.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House stable/coach-house end on 18th Street, c. 1887 (Cornell A. D. White collection; as reproduced by the museum)",
+    "creator": "Unknown photographer",
+    "date": "c. 1887",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/12/the-original-odd-quaint-queer-dutch.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "side elevation"
+  },
+  {
+   "id": "a18-gh-glessner-front-with-keith",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip1QarESnrLSryNW8p1f4geYp7IX3ijvJfHfSZCcHNl3Gzls9P9eAbsaDaozJz88-eNwfH1u0mr3Qv6lQaR4tK43U2oQt7YtSKwM9SKkM0g-azBfW1zps7YWrBWysjfDXqsrwNmW0UiFiSQ7OR94at-blfj99xSrPJsQr9Ig_xGoh150spiJH6r4VB/s1950/Keith%20and%20Glessner.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House Prairie Avenue front, with the O. R. Keith house (1808) at far left",
+    "creator": null,
+    "date": "undated (probably 1890s–1920s)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/12/the-original-odd-quaint-queer-dutch.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a18-gh-1800-block-looking-sw-c1888",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnxKUBoQMyhEJ9KPC9674ynIW61wrTfelODwkLrq5XO84N4ej7iw8NjXN1NLfHJNu2O1BE0JWr9fT8XwI4X1xrVDAdCKz450qHU4m0KbNOqUhJtoS-uDfjxbYFdUGeQtcEjexWXI3L0hynNe7gNOW8rC79FixSnvh-vF4UeZ_cce5OSmKggTp_C29G/s1733/1800%20block%20looking%20SW.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "The 1800 block of Prairie Avenue looking south-west from 18th Street, c. 1888",
+    "creator": "Unknown photographer",
+    "date": "c. 1888",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/12/the-original-odd-quaint-queer-dutch.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6",
+    "pa-1812-7",
+    "pa-1816-33"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-gh-glessner-exterior-historic",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI2DpIeGcWg62ujsL-istgT_knkjLPD9AfJFgfDsgP-OHlCbNd9nSsx0G5GvfMw37i-g44eUevHWfdF4vI6mio-Rj8h6Vb9qmmMlXNZbT7zddN49enXTmq-mwjtZNrpsvs18a6X_2QWXCm29kKNwxJmhyY_ZhUEBGaMPYjKUW7A0zK52VnLh2y6ZlS/s1323/Glessner%20exterior%20historic.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House from the north-east (historic photograph)",
+    "creator": null,
+    "date": "undated (late 1880s–1890s)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/12/the-original-odd-quaint-queer-dutch.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-courtyard-watercolor",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYD-_qnuhUJUqJiwbuu9sKGshMCpAW1Cd4R5iBl-UUVjBCV4jq9xmTSJAg2_7nmLhbkcG7WeUsmj8-irrCTLRDZxSTb-9CKjhOBqkEmTy4Oy4JuJhi1IXKJd61WjvGLrgHV-8gq8XpEnYFEcpfRfshQz_Bhq-7jhu5odGy-Pdg9aym-G8hTHlr2yd6/s1800/Courtyard%20watercolor.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House courtyard, watercolor rendering",
+    "creator": null,
+    "date": "undated (design period, 1885–1887?)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/12/the-original-odd-quaint-queer-dutch.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "architectural drawing",
+   "view": "rear"
+  },
+  {
+   "id": "a18-gh-1808-keith-field-front",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzzgLaEbE1Zt2xsJ_NXdQqKaZQzOhYWZQGJX3ZIMw9tvCUAAegubIJHrRTTRyvx2j99p1Oodu9KhS7Y1_-WI0yyiMva_n7cUBhvI0aMNjE8qS8zCj6n6IBSWpUspxpMhw7n3NS8WnhAO0/s1600/3+-+1808+Prairie+Avenue.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1808 S. Prairie Avenue (Cobb & Frost, 1886)",
+    "creator": null,
+    "date": "undated (after 1886)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/06/prairie-avenue-and-louis-sullivan-part.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1808-6"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a18-gh-nickel-1967-1812-1808-1800",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdTAeiulE1GP41sLVk3qr1qW0apvOiQFEj0XUHXwftE4zksDCKHigDDJQneH-vMa33G2aCSVFYYpngwd_F5N17oxe-GiIE5i6O0xGM6E1KrEKcB1O__gu2JTndyKcVUFW6rBNvmY0UYmpIn1XPPvslGt3IkXAanYuP33nlizOzS-Nqxpu2Q4RrHTyt/s1200/GH%20-%20ext%20-%20with%201808-1812.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Wheeler house (1812), Keith house (1808), and Glessner house (1800 S. Prairie Avenue), 1967",
+    "creator": "Richard Nickel",
+    "date": "1967",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/04/richard-nickel-and-glessner-house.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1812-7",
+    "pa-1808-6",
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-gh-nickel-west-roof-dormer",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnCVLRHh5NDpoLK8mLKTty-oJ0t88WWSFVZA3D4Ns9xEtj-pHK89siWpyE1MJvzNZRWbyhrPII6MD1nS0oZz93D03V5TZDYsM7JtWkJRRiIg95Du6xljMQW_31c7IqfoOopGS4YGuytCaNt9vnIJawopJlXT48ea4GuJpQy2PPsQ94iVdOSsXQylBs/s1200/GH%20-%20ext%20-%20west%20roof%20and%20dormer.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House: west roof and hayloft dormer (Richard Nickel, 1966–67)",
+    "creator": "Richard Nickel",
+    "date": "1966–1967",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/04/richard-nickel-and-glessner-house.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a18-gh-nickel-coach-house-interior",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhARSsXWm_5B6GO1enk8DCfZd-bm6GishiA-ZQ0grROPEUupLdt480Mw-fTF4Do9g4W7u41uIFfv1rfCr5A3iTvC7ucZkALLZ8kkhjOP0-HLZ79U7KZR28IUkHMB_24GkTguJ0o_UTpQU5h_kJtfehjwrZ1aR0MizTiFF5gbKgJm21z5HXPUNg3mRn1/s1200/GH%20-%20int%20-%20coach%20house.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House: coach house interior (Richard Nickel, 1966–67)",
+    "creator": "Richard Nickel",
+    "date": "1966–1967",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2022/04/richard-nickel-and-glessner-house.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a18-gh-1811-ames-house",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiho0BSthTZivzUgbmKqYpSNnCc6cFUHIz4RhbMdv1XdO_D7h1kVQKhFXDfB-JMYMElhDwJnQro7cwtI65AHHQIro1P-uq0mmNBRdPi_OFshSVldbRuPFfUhKGuCx7iRtzt8MO00A0BuYA/s1600/1811+PA.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1811 S. Prairie Avenue (Coleman / Ames house), historic photograph",
+    "creator": null,
+    "date": "undated (after 1886)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/01/miner-t-ames-coal-merchant.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1811-24"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-1911-map-west-1800-block",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3A4FmBXfCYlfyXVGYYkSX2VYI7OPN4jJqY_w45jACEwfNYIcsaSXMjkkQ5owGEgj-LA7f_TKiXRorJiaRo-S4gQ4IlJao0OUuGbCpeH0hiU4ZzLMw7iec7Ofb_vpQxzFC6nqAnGSiIWE/s2048/1+-+1911+map.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "The block bounded by 18th St, Prairie, Cullerton (20th) and Indiana as it appeared in 1911 (annotated insurance map)",
+    "creator": null,
+    "date": "1911 (map); annotated 2021",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2021/03/the-chicago-womens-park-and-gardens.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6",
+    "pa-1812-7",
+    "pa-1816-33",
+    "pa-1824-8",
+    "pa-1834-9",
+    "pa-1900-25"
+   ],
+   "kind": "fire insurance map",
+   "view": "map"
+  },
+  {
+   "id": "a18-gh-1935-donnelley-aerial",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtjPqgPyLWlBLKMUUxgSuGe05nYtIVzkNB08iCHzAd0CzocNBVkzn_d-b0znefWi6ZVQ34e5GgvnCsdvq5Na0vAzCxbV6ouUJei5GFKi7pPD7Yjxfsu2H2_Qlhahs0M8tg7O1VYyarx78/s900/5+-+1935+Donnelley+aerial.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Aerial view from the tower of the R. R. Donnelley building, 1935",
+    "creator": null,
+    "date": "1935",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2021/03/the-chicago-womens-park-and-gardens.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6",
+    "pa-1812-7",
+    "pa-1816-33",
+    "pa-1824-8",
+    "pa-1834-9"
+   ],
+   "kind": "aerial",
+   "view": "aerial"
+  },
+  {
+   "id": "a18-gh-nickel-prairie-nw-after-1968",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizs55ZDVoD-hAdRq_sy_ofuW04zgMjvHY7YEHAv5tHpyXqpo7stMuswHbTyqV3pcx3Hwm7I6OPJQK0hyphenhyphen91aoeCKNw5z_9kxF64nPldFbMF5X888SJrRFR1BIVb_4IlODd4dGI3QaN0B0s/s654/9+-+15-2+PA+south+after+68.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Looking northwest on Prairie Avenue, Glessner House at right (Richard Nickel, after 1968)",
+    "creator": "Richard Nickel",
+    "date": "late 1960s (after 1968)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2021/03/the-chicago-womens-park-and-gardens.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-gh-nickel-aerial-ne-after-1968",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2wzkubudhyphenhyphenJNB9gSuu7WkFGH6O690EbZ689U6qVcFRkTHLdUXIoGtAkaqklL8mtQB7C38gBPKYEaDq1TyF616Lym_h5kDakvg5vVr18cC1CV19fYAOdEGbi1bxX6m1Cr8RhosU-6OvXo/s891/8+-+14-3+aerial+N+after+68.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Aerial view looking northeast, Glessner House at upper center (after 1968)",
+    "creator": null,
+    "date": "after 1968",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2021/03/the-chicago-womens-park-and-gardens.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1801-23",
+    "pa-1811-24"
+   ],
+   "kind": "aerial",
+   "view": "aerial"
+  },
+  {
+   "id": "a18-gh-1800-block-south-1975",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRcu9lBThm5hPizZuWWqMbqAxUojxZT91T_mxl-zpQbfuD1IPweOOUIzo5hoKKXXNRI3bT99uBUKwGKEYvA7tL9y5s5X_xQ6CAeRCb2yjJNGfIGi7pvn4oemD4gSLsG0UgNY_F8GavyK8/s900/1975+-+1900+block+PA+SW.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1800 block of Prairie Avenue looking south, 1975",
+    "creator": null,
+    "date": "1975",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2021/04/the-chicago-womens-park-and-gardens.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1815-12"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-gh-sears-interpretive-panel",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi54L_nJ10VFQOQYCN12luD3YUAutG93AGuc4-qqX9EaUMFjJXoaQXlrCJndhbYQowcs6E7MEnFD42gkNHO2rKwD6Bc3BXwe_9XRt9lbZ6P3s-weQHzp-3yu-NwukGysJjZ2hS8NXI3Dro/s1600/7-Sears+plaque.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Interpretive panel: \"The Joseph Sears House, 1815 Prairie Avenue\" (installed c. 1980)",
+    "creator": null,
+    "date": "c. 1980 (panel); depicts 1882 house",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1815-12"
+   ],
+   "kind": "architectural drawing",
+   "view": "front elevation"
+  },
+  {
+   "id": "a18-gh-1815-office-building-1981",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0E8Pc0ToS9CjW77pDrltpGG5A1YUq9IGKVdt37ZLbswr4whQk1xtzXwRh7j6bg4VYP-V2bXuRkN4rwBUkVG7X7S2-c1cx0naDKo-5ZJgTjDKseKl4z0SJ2cT7-nlhIQrLBzX0yviTlU/s1600/1815+PA+warehouse.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Office building on the site of the Sears house, 1815 S. Prairie Avenue (1981)",
+    "creator": null,
+    "date": "1981",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1815-12"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-1834-fernando-jones",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhJBL_KIT_oiMIb5yXypMXdKBfk9ZW8_-ZiGB2AHAIMbPBRqdUmPTkfeiGRi46_VIqcBF8g_FC7cUxcrv9b_XZ-0NowigHAkz4svAOpvgmjl4LVdWrRMk7wpO7CPv4f-U2LuwJ6igmeL4/s1600/1834+S+Prairie+Ave.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1834 S. Prairie Avenue (Fernando Jones house, John M. Van Osdel)",
+    "creator": "Unknown photographer",
+    "date": "undated (probably before 1886)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/08/john-m-van-osdel-chicagos-first.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1834-9"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-florian-1948-ne-exterior",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_32USOBcmUfS_MhaFWg3LkmwPd9MKyrZs0CWEmuDhCfVbb9awvx3AwOlVTBUENal2pii0lm39oFbGH5KBwNDhp3GyLZ1c9FNmk3ETxmAAFs-6v-T0T1kgnYVkOpSMPC3SQ6ppdUANLzeQodFYOM0kz8fpH9PDv3YvPzRI7ML_-xNfiIb9v_MXRMAqIwY/s1800/GX112.10.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House porte-cochère doors, July 1948 (Robert C. Florian)",
+    "creator": "Robert C. Florian",
+    "date": "July 1948",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": "Glessner House Museum, Robert C. Florian photographs (GX112)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2023/07/glessner-house-july-1948.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6"
+   ],
+   "kind": "photograph",
+   "view": "entrance detail"
+  },
+  {
+   "id": "a18-gh-florian-1948-porte-cochere-doors",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxH_bSorM9C4Opu6eJ8PMBMzQXG-CUCJPg4gSIullOeN5dSNMjh4iESs0jBH1_Zwo0Z8RXDuB-D1jRcQIXcwHIEyYPyF573ojvx-IutgQYev7KRYCWam2os92B8LVijawOAdM9BU9Y7stQMGFlyWMhGwDv4Qs5rj0jg6ARSZiG8hrAFJbX5wh-vp-rDQY/s1800/GX112.21.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House courtyard looking west toward the stable, July 1948 (Robert C. Florian)",
+    "creator": "Robert C. Florian",
+    "date": "July 1948",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": "Glessner House Museum, Robert C. Florian photographs (GX112)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2023/07/glessner-house-july-1948.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "courtyard"
+  },
+  {
+   "id": "a18-gh-florian-1948-court-to-stable",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYjLT7igTU4PbId93IIerdeRICZN7PYJOJ6LT_YGEKwmng-DaO0ER4lPSqfHATqNARwu1ShKRBJk7mA-lVOdBBPoKdqIkGhfZIMM9h2xUl_cOpoGypx9VX0u3damBotvhp3bhZdQnOa8t0Y5vjOhzS9p08Arnj4IP9RZKmBp-tpX37_KEScyjhN5Jj20Q/s1800/GX112.24.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House roofs, dormers and stair turret, July 1948 (Robert C. Florian)",
+    "creator": "Robert C. Florian",
+    "date": "July 1948",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": "Glessner House Museum, Robert C. Florian photographs (GX112)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2023/07/glessner-house-july-1948.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "roof detail"
+  },
+  {
+   "id": "a18-gh-florian-1948-roof-turret",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0JV9VxbKEkk1Vk2l_x0ea_bugmrnfDk3eRBEMSGxqNIDnitm-jHxCpKxXpR5qgxB5wXt-Y2Cx4Ms7xaW6rktPvOhCtmkpen4Jk0Vsr30A9NyGFLsaovHk10XKz-yysZU0cOZHqfOg12T0JhqBpaPp_OGg1OZLNEbeVU6HFxmEqbDh6stpFRFqmP3V_Co/s1800/GX112.28-29.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House industrial interior, July 1948 (Robert C. Florian)",
+    "creator": "Robert C. Florian",
+    "date": "July 1948",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": "Glessner House Museum, Robert C. Florian photographs (GX112)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2023/07/glessner-house-july-1948.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a18-gh-1812-1808-1800-mid1950s",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33JLYGf-zuMUa6xC_K7t7wuMZNmxGr7Br3Vup97CkhQHBEZMJiH1nDvkRhp9QJv7syt_oCDDhOBERR5_oFi2tWBrW6UMnBNfqPr_WZqVHOzLrJ64JvmrNsN-vsU7fjC0ctEH1TlCWPzI/s1600/1800-1812+PA+1950s.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1812 S. Prairie Avenue (far left) in the mid-1950s; Glessner House at right",
+    "creator": null,
+    "date": "mid-1950s",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/09/charles-jackson-first-caretaker-of.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1812-7",
+    "pa-1808-6",
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-gh-1808-porch-1965",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjV1WH2Qbs6-ip9Vmo-s-RBgD7yGPajSYrlwlLU1POY1hpXYQatPC2Tj9CGiWFZpfvRRs0sb2VJ3altPvJSQtMUY_sNJzlToUruE97Sb-dWumNiYT1MnU6KZS-mEIidDQYleRQahL7khw/s1600/Charles+A.+Jackson+on+porch+of+1808+PA.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Charles A. Jackson sitting on the porch of 1808 S. Prairie Avenue in 1965",
+    "creator": null,
+    "date": "1965",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/09/charles-jackson-first-caretaker-of.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1808-6",
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a18-gh-glessner-wpa-model-east",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxFN6ftdY6flIaKI7EMkupmt3KydguzHBBu8IXKMGDGLfWN4HIcc04vG26q09bA9Ki9trutq1rzTb9w37aFfe7ANEmxeaDKSBoVwRXUEyKUh9k3391Z_K6HwdHLYm-YKy2n78Che-y1Ow/s1600/East+side.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner house plaster model (WPA Museum Extension Project), east side",
+    "creator": null,
+    "date": "late 1930s (WPA)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/03/glessner-model-house.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a18-gh-glessner-wpa-model-north",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHSoXvFQ0NOQynajQ1B2SQNockUjuRuLZd1z6OlYke2qfSXa3IecaJaJhyIvpPVvPTrZQivAXGPOvKkuh5uEgDI2YgbcGtP6_yrSHdVAQiZvI7OmJ9utV42A_NtT93ZImAugr8Y9cQN0/s1600/North+side.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner model, north elevation",
+    "creator": null,
+    "date": "late 1930s (WPA)",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/03/glessner-model-house.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "side elevation"
+  },
+  {
+   "id": "a18-cgy-1801-kimball-early",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/1801prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1801 S. Prairie (W. W. Kimball house), early photograph",
+    "creator": null,
+    "date": "undated (1890s)",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1801prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1801-23"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-cgy-1801-kimball-1945",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/1945kimballmansion1801prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1801 S. Prairie (Kimball house), 1945",
+    "creator": null,
+    "date": "1945",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1801prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1801-23"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-cgy-1801-1811-modern",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1801and1811prairieave.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1801 and 1811 S. Prairie Ave. (modern photograph)",
+    "creator": null,
+    "date": "2010s",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1801prairie/",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1801-23",
+    "pa-1811-24"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-cgy-1812-wheeler-c1955",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1812sprairie.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1812 S. Prairie Ave. About 1955",
+    "creator": null,
+    "date": "about 1955",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1812prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1812-7"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a18-cgy-1815-sears-two-views",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1815southprairie.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1815 S. Prairie Avenue (two historic views)",
+    "creator": null,
+    "date": "undated (two photographs; 1882–1902?)",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1815prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1815-12"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-cgy-1816-henderson-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1816sprairie.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1816 S. Prairie Ave. (Charles M. Henderson house), historic photograph",
+    "creator": null,
+    "date": "undated (after 1873)",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1816prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1816-33"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-cgy-1823-dent-engraving",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1823prairiethomasdent.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "1823 Prairie, Thomas Dent (engraving with portrait)",
+    "creator": null,
+    "date": "undated (1880s–1890s engraving)",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1823prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1823-13"
+   ],
+   "kind": "engraving",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-cgy-1827-hall-interior",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/interior1827prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Doane house, 1827 S. Prairie: hall with fireplace and gallery (historic photograph)",
+    "creator": null,
+    "date": "c. 1882–1890",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1827prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-14"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a18-cgy-1800-glessner-2135",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/glessnerhouse1886.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "\"2135 H. H. Richardson, Glessner Res., Chicago\" — photograph of the house nearing completion",
+    "creator": null,
+    "date": "1887 (chicagology labels it 1886)",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1800prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-rba-reed-1941-prairie-north-from-1820",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:65672/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Prairie Avenue looking north from approximately 1820 S. Prairie (Earl H. Reed for the Chicago Plan Commission, 1941–42)",
+    "creator": "Earl H. Reed (Chicago Plan Commission)",
+    "date": "1941–1942",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865-1973 (bulk 1890-1945) — Architecture Photograph Collection",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/65672",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1808-6",
+    "pa-1801-23",
+    "pa-1811-24",
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-rba-reed-1941-prairie-south-at-18th",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:65592/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Prairie Avenue at 18th St., looking south (Earl H. Reed for the Chicago Plan Commission, 1941–42)",
+    "creator": "Earl H. Reed (Chicago Plan Commission)",
+    "date": "1941–1942",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865-1973 (bulk 1890-1945) — Architecture Photograph Collection",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/65592",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a18-rba-replinger-1951-glessner-service-entrance",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:28947/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — service entrance on 18th St. (J. G. Replinger, July 1951)",
+    "creator": "J. G. Replinger",
+    "date": "July 1951",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865-1973 (bulk 1890-1945) — Architecture Photograph Collection",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/28947",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a18-rba-florian-1948-glessner-court",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:36628/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — exterior (Florian, July 1948)",
+    "creator": "Robert C. Florian",
+    "date": "July 1948",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865-1973 (bulk 1890-1945) — Architecture Photograph Collection",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/36628",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "rear"
+  },
+  {
+   "id": "a18-rba-glessner-library",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:38056/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — Library",
+    "creator": null,
+    "date": "undated (probably c. 1923, Story of a House series)",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865-1973 (bulk 1890-1945) — Architecture Photograph Collection",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/38056",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a18-rba-glessner-main-hall",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:38063/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — Main reception hall",
+    "creator": null,
+    "date": "undated (probably c. 1923)",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865-1973 (bulk 1890-1945) — Architecture Photograph Collection",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/38063",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a18-rba-glessner-prelim-elevation-slide",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:25521/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — preliminary elevation (lantern slide of the Houghton drawing)",
+    "creator": null,
+    "date": "c. 1885 (drawing); slide undated",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865-1973 (bulk 1890-1945) — Architecture Lantern Slide Collection",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/25521",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "architectural drawing",
+   "view": "front elevation"
+  },
+  {
+   "id": "a18-rba-nickel-glessner-ne-1",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:71756/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — exterior from the NE (Richard Nickel)",
+    "creator": "Nickel, Richard [Park Ridge, IL]",
+    "date": "1950s–1960s",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Nickel, Richard, Archive, 1850-2011 (bulk 1945-1972)",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/71756",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-rba-nickel-glessner-ne-2",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:71795/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — exterior from the NE (Richard Nickel, second view)",
+    "creator": "Nickel, Richard [Park Ridge, IL]",
+    "date": "1950s–1960s",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Nickel, Richard, Archive, 1850-2011 (bulk 1945-1972)",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/71795",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-rba-nickel-glessner-sign-removal",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:71832/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — removal of the Graphic Arts Technical Foundation sign (Richard Nickel)",
+    "creator": "Nickel, Richard [Park Ridge, IL]",
+    "date": "1950s–1960s",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Nickel, Richard, Archive, 1850-2011 (bulk 1945-1972)",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/71832",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a18-rba-florian-1948-glessner-interior",
+   "url": "https://artic.contentdm.oclc.org/iiif/2/mqc:36572/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner, John J., Residence — interior through sliding doors to stair (Florian, July 1948)",
+    "creator": "Florian [Berwyn, IL]",
+    "date": "07/1948",
+    "repository": "Ryerson & Burnham Art and Architecture Archives, Art Institute of Chicago",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865-1973 (bulk 1890-1945)",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/36572",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a18-gho-house-under-construction-1887",
+   "url": "https://images.squarespace-cdn.com/content/v1/55ef0304e4b03f4c029572a4/1622573908519-TW9ZVN1613A8PQ00EZ98/10+-+House+under+construction.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House during construction, 1887",
+    "creator": null,
+    "date": "1887",
+    "repository": "Glessner House Museum (collection object page, glessnerhouse.org)",
+    "collection": "Glessner House Museum collection",
+    "catalog_url": "https://www.glessnerhouse.org/house-under-construction",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gho-simmerling-kimball-1994",
+   "url": "https://images.squarespace-cdn.com/content/v1/55ef0304e4b03f4c029572a4/9bfcb354-bd0a-49c8-930f-641be9a8c7fc/29+-+Kimball+house.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Kimball house — watercolor by Jack Simmerling, 1994",
+    "creator": "Jack Simmerling",
+    "date": "1994",
+    "repository": "Glessner House Museum (collection object page, glessnerhouse.org)",
+    "collection": "Glessner House Museum collection",
+    "catalog_url": "https://www.glessnerhouse.org/kimball-house",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1801-23"
+   ],
+   "kind": "lithograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-cornell-adw-glessner",
+   "url": "https://www.jstor.org/iiif/2015/05/01/13/99f80837-f0ce-47fa-a493-62b61bad2e28_deflate.tif/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House (Andrew Dickson White Architectural Photographs Collection), ca. 1887, albumen print",
+    "creator": "Unknown photographer",
+    "date": "ca. 1887",
+    "repository": "Division of Rare and Manuscript Collections, Cornell University Library",
+    "collection": "Andrew Dickson White Architectural Photographs Collection",
+    "catalog_url": "https://digital.library.cornell.edu/catalog/ss:3874293",
+    "rights": "public domain"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-cgy-elevation-strip-1800-1900-blocks",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/postfire/prairieavenue.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "\"East Side of Prairie Ave.\" / \"West Side of Prairie Ave.\" — measured-style street elevation drawing of the 1800 and 1900 blocks",
+    "creator": null,
+    "date": "undated drawing (depicts the blocks c. 1890s–1914)",
+    "repository": "Chicagology (chicagology.com) — secondary web compilation; original holder not named",
+    "collection": null,
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6",
+    "pa-1812-7",
+    "pa-1816-33",
+    "pa-1824-8",
+    "pa-1834-9",
+    "pa-1801-23",
+    "pa-1811-24",
+    "pa-1815-12",
+    "pa-1823-13",
+    "pa-1827-14",
+    "pa-1900-25",
+    "pa-1901-15",
+    "pa-1905-16",
+    "pa-1906-34",
+    "pa-1912-10",
+    "pa-1919-26",
+    "pa-1923-35",
+    "pa-1936-11"
+   ],
+   "kind": "architectural drawing",
+   "view": "street view"
+  },
+  {
+   "id": "a18-gh-glessner-main-hall-1885-rendering",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ3Kk5kdIPutrLeDpVTtBneuxt400tSKqAALHPrDWGddI-S61MrHqFXXJEHHpPHR2W2ChJTy1Viwis-m8rxXJp8X9aD1l77zzDFOGAg8SKoqxJ_brSw7psG_9lDdz4HnJGN0OEeDzlGjw/s1600/1885+-+HHR+design.JPG",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Rendering of the main hall, 1885 (Office of H. H. Richardson)",
+    "creator": "Office of H. H. Richardson",
+    "date": "1885",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": null,
+    "catalog_url": "https://glessnerhouse.blogspot.com/2020/05/preservation-month-part-ii-main-hall.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "architectural drawing",
+   "view": "interior"
+  },
+  {
+   "id": "a18-gh-florian-1948-entry-curb",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDzrdNZFLVOup7AOFW0BV54Y_6kGrFdijkZsKEX8cvn80KS29Civ2iREbCAwIYj4VM0Gt34TwpvU3IX93bro5DTj85-QUIHQjJ9SPiH3pT9VOJ9Y2BrhCVSstKgGJOBqcwwV2sudPJAblb8_G9Kvr8pcdjmtRXD4x8Y8PhoTr3Pebe59Pa2dsG88VoEFo/s1800/GX112.50.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House entry and curb, July 1948 (Robert C. Florian)",
+    "creator": "Robert C. Florian",
+    "date": "July 1948",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": "Glessner House Museum, Robert C. Florian photographs (GX112)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2023/07/glessner-house-july-1948.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "entrance detail"
+  },
+  {
+   "id": "a18-gh-florian-1948-northeast-overall",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPewCWmk1iZEElM2iA6Hm5MpBGhM5X2hsHo-x1iBIfgIjrEWZsbKf5Ert5K-QW3rCjPWJc8-lglGj3RYcm1ndlugTCQRApVRXRhz1CNJJ_S_Xqk9QIoohlVPJiU9l7qQKWCWalzJyky7BpHv5yAeQs_EIpBQWCgu0nq5CQXxov0XVoey0j98SCCz5kAKE/s1800/GX112.1-3.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House northeast exterior with Keith house, July 1948 (Robert C. Florian)",
+    "creator": "Robert C. Florian",
+    "date": "July 1948",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": "Glessner House Museum, Robert C. Florian photographs (GX112)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2023/07/glessner-house-july-1948.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1808-6"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-gh-florian-1948-courtyard-bow-chimney",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-c0YGpSgCMz0FD_z0D9-gtdqZtx0vzMlCADtMrj8-gCAlHDmgHwQwPIBNFfAnLVzVoCI0jAruEhOtKHY6QADidkPuSL05a7vopNd1rh7dwriArzheZ9pes4LylAdUYVhxv2bwBM72NKZaMn7CgW9DOHumvCMJEG3e24qBWL2VwKf-Qf9dgxU8RlCgSM8/s1800/GX112.25%20scanned%20negative.jpg",
+   "max": 2000,
+   "stream": "stream-1800.json",
+   "credit": {
+    "title": "Glessner House courtyard bow and chimney, July 1948 (Robert C. Florian)",
+    "creator": "Robert C. Florian",
+    "date": "July 1948",
+    "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
+    "collection": "Glessner House Museum, Robert C. Florian photographs (GX112)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2023/07/glessner-house-july-1948.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "courtyard detail"
+  },
+  {
+   "id": "a19-cgy-1900-keith-exterior",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1900sprairieelbridgekeith.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1900 S. Prairie (Elbridge Keith residence) — two historic exterior photographs",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated (mid-20th century in appearance)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1900prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1900-25"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a19-cgy-1900-keith-2024",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1900prairie2024gregory.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1900 S. Prairie — modern colour photograph (filename '2024gregory')",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "2024 (from filename; not captioned)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1900prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1900-25"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a19-cgy-1901-exterior",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/1901prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1901 S. Prairie (O. R. Keith / Norman B. Ream residence) — exterior photograph",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated (c. 1890s?)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1901prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1901-15"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1901-ream-1898",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1901prairieream.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1901 S. Prairie — 'In 1898 as owned by Mr. Ream'",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "1898 (caption on hosting page)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1901prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1901-15"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a19-cgy-1905-field-923",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/923prairiefieldhome.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1905 S. Prairie — Marshall Field residence (filename '923prairiefieldhome' = pre-1880 address No. 923)",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated; filename uses pre-1880 numbering (923 Prairie), suggesting 1870s",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1905prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1905-16"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1905-field-winter",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1905prairieC.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1905 S. Prairie — Field residence, winter street view",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "c. 1905 (per Wikimedia Commons record of the same Chicago Daily News negative, DN-0003324)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1905prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1905-16"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1905-field-school",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1905prairieA.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1905 S. Prairie — Field house in institutional use (car, flat-roofed addition)",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "c. late 1930s–1940s (car model; institutional addition)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1905prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1905-16"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1905-field-1893-engraving",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1893marshallfieldhouse.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "MARSHALL FIELD PRAIRIE AVE. (engraving; filename '1893marshallfieldhouse')",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "1893 (per filename; publication not named)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1905prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1905-16"
+   ],
+   "kind": "engraving",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1905-field-1955",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1905prairieave1955.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Marshall Field mansion just before it was razed in 1955 (three views)",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "1955",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1905prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1905-16"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1906-keith-engraving",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1906prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1906 S. Prairie (Edson Keith residence) — engraving",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated (19th-century wood engraving)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1906prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1906-34"
+   ],
+   "kind": "engraving",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1906-keith-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1906prairieB.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1906 S. Prairie (Edson Keith residence) — exterior photograph [identification disputed: same photograph captioned '1900 PA' by Glessner House]",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1906prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1900-25"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1912-exterior",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1912prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1912 S. Prairie (Moulton / Greene / Lowden / Blackstone residence) — exterior photograph",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated (electric street lamp; early 20th century?)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1912prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1912-10"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1919-before-1902",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1919sprairiebeforealterations.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1919 S. Prairie, before facade alterations made in 1902",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "before 1902 (caption on hosting page)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1919prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1919-26"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1919-later",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1919prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1919 S. Prairie — Marshall Field Jr. residence (later view)",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated (late 20th century: chain-link fence, vacant era 1977–2000s?)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1919prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1919-26"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1936-thompson-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/PreFire2/1936prairie.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1936 Prairie Avenue (Daniel Thompson / Samuel W. Allerton residence) — exterior photograph",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated (before demolition c. 1912–15; winter)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1936prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1936-11"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1936-thompson-etching",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1936prairieetching.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1936 Prairie Avenue — etching (vignette with fence and promenading woman)",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated (c. 1880s style)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1936prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1936-11"
+   ],
+   "kind": "engraving",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-cgy-1945-armour",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1945sprairie.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1945 S. Prairie Ave. (George Armour residence) — photograph",
+    "creator": "unknown (original photographer/publisher not named on the hosting page)",
+    "date": "undated (19th century)",
+    "repository": "Chicagology (chicagology.com) — secondary web reproduction; original holder not stated",
+    "collection": "Chicagology: Prairie Avenue house pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1945prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-gh-keith-1900-historic",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAjwRtF0mj3nux5AE07UgcaR6OZmsSnPmceR3jgqyyVzHaxTCiT4AOvljdNZ2sHhdcMmZko_wR_s-c18Me-YgfXuoWeuPXTLNQO3yZChtMKQWQ4gJCtN9ekeeq70nUYUrOzWjxpCUDJfY/s1600/1900+PA.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "1900 PA (historic photograph of the Elbridge G. Keith house)",
+    "creator": "unknown",
+    "date": "undated (sepia print; after the 1880s mansard addition)",
+    "repository": "Glessner House Museum (blog, 'The Story of a House')",
+    "collection": "Glessner House blog post 'Elbridge Keith House', 3 November 2014",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/11/elbridge-keith-house.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1900-25"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-gh-keith-1900-exterior-modern",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3syotPacVcZPgb3KA5Odbuh6VHVHaJN4n7yOogSJJSmRN6Um0CAwt85N7DHzajUYHU-5KdmfAz04Ymt-LTAuu3xCtvfyG-inKojpM-2n7br_5IOz5a493-dwg8tKJJ1VsWQhBwza1nE/s1600/Keith+House+exterior.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Keith House exterior (detail of upper facade, c. 2014)",
+    "creator": "Glessner House Museum (presumed)",
+    "date": "c. 2014",
+    "repository": "Glessner House Museum (blog, 'The Story of a House')",
+    "collection": "Glessner House blog post 'Elbridge Keith House', 3 November 2014",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/11/elbridge-keith-house.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1900-25"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a19-gh-keith-dining-room",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0X0qvm4EDMV9DX4Q803zsOTieyLqAS1awXdfWWpUNbAIE75SQ73pdlhEvdQAQgJKeYGZ0OAloZ6Zr0R3ikpG8MbTTjt19XJurkgeztmlWhu-2m0YATnX7WPF-5KnAcRx6j6qGA64ygXk/s1600/1900+PA+dining+room.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Dining room (Elbridge Keith house)",
+    "creator": "unknown",
+    "date": "undated (late 19th century, Keith family period)",
+    "repository": "Glessner House Museum (blog, 'The Story of a House')",
+    "collection": "Glessner House blog post 'Elbridge Keith House', 3 November 2014",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/11/elbridge-keith-house.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1900-25"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a19-gh-keith-publishing-office",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHs2fqFm54A6sjl3gINGk4PNBP0rfgZt61FknRgwuscgjps_gZuN8cWKaDXVoRJJ6_7ont-hkJqSxx0Gbbp9CLqWocrYrKdWm1q6JfohYGTKUT8Nxsyy8W3Cg1kI1r-wFIeCA42rcNsAw/s1600/Publishing+company.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Publishing company offices in the Keith house (1934–1974 era)",
+    "creator": "unknown",
+    "date": "between 1934 and 1974",
+    "repository": "Glessner House Museum (blog, 'The Story of a House')",
+    "collection": "Glessner House blog post 'Elbridge Keith House', 3 November 2014",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/11/elbridge-keith-house.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1900-25"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a19-gh-clarke-before-1872",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5tFGNPqn2C6ipSJA8HTxQ0M7KB-OC4LrWlsEqU6m4C6a5e92va5H_-Q02xNuud0ORCwMLNlhMs8DESQwAXAWdhfBGa21PKp8LKrRbZyQfD-S3usnf9UHjzgGB1wwamlGKFKRABP87wcA/s1600/House+before+1872+move.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Clarke House at its original location on the east side of Michigan Avenue in the 1860s (Courtesy of Clarke House Museum)",
+    "creator": "unknown",
+    "date": "1860s (caption)",
+    "repository": "Glessner House Museum (blog); images courtesy Clarke House Museum where stated",
+    "collection": "Glessner House blog 'House Moving Part II: Clarke House, 1872' (11 Aug 2014)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/08/house-moving-part-ii-clarke-house-1872.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-s.-indiana-avenue-(modern-location)-28"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-gh-clarke-wabash-chrimes",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-QdY4LkVlM6BpBthZruI_GKqe8Em0ejheCFG8n56ODL6TdDDMkGp0d8fESolFLqEhMYDE8xBhbWayY57D7nNtZ2_u8Wr7ZTaA-nSe_1C5HGNAImBPXFSnRS0XAIwrWvFkB3Z9RnKb-HU/s1600/House+after+1872+move.JPG",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "The house after its move to 4526 S. Wabash Avenue with members of the Chrimes family in the foreground (Courtesy of Clarke House Museum)",
+    "creator": "unknown",
+    "date": "undated (after June 1872; carriages and dress suggest c. 1880s–1900s)",
+    "repository": "Glessner House Museum (blog); images courtesy Clarke House Museum where stated",
+    "collection": "Glessner House blog 'House Moving Part II: Clarke House, 1872' (11 Aug 2014)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/08/house-moving-part-ii-clarke-house-1872.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-s.-indiana-avenue-(modern-location)-28"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a19-gh-clarke-restored-modern",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHH8NkVJoEwBtIQwV-Wk_rZoJnHLJcXJ4SPvE1bArfhN7K3E974ieylvgzXPAa4QlWqwmM_35TuJbZ3gZqa-W1uXP3EGPsj6cqN2BQ41zznCyvjPMcqSKX7ui7yr8FVdfkUVy5C6zbHI8/s1600/Clarke+House+exterior.JPG",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Clarke House exterior (restored, at 1827 S. Indiana Avenue)",
+    "creator": "unknown",
+    "date": "after 1982 restoration (undated modern photograph)",
+    "repository": "Glessner House Museum (blog); images courtesy Clarke House Museum where stated",
+    "collection": "Glessner House blog 'House Moving Part III: Clarke House, 1977' (18 Aug 2014)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/08/house-moving-part-iii-clarke-house-1977.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-s.-indiana-avenue-(modern-location)-28"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-gh-clarke-1977-cupola",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cIom_sS24qXc-Dtwcd_HVT1GdJEy0VxDqePQR7h2EPimVtXmO1X9arZxw9n-JM8wNLtS0X9FODdx4PXQpIO8jZF7yAL-ZcuOL3ZgxEBbW5itwhBKg3AhiYfGXiKmSAwFf016oUKoazM/s1600/1977-11-18+Cupola+removal.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "November 18 [1977]: Removal of the cupola",
+    "creator": "unknown",
+    "date": "November 18, 1977",
+    "repository": "Glessner House Museum (blog); images courtesy Clarke House Museum where stated",
+    "collection": "Glessner House blog 'House Moving Part III: Clarke House, 1977'",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/08/house-moving-part-iii-clarke-house-1977.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-s.-indiana-avenue-(modern-location)-28"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a19-gh-clarke-1977-tracks",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKz-IOmWz5UWskIc9_90iM1PNlQh9bdqX75Nh3WtWSUC_5fGahTyY1pskzzCmdeN1GYM9MunGv3nk4WjZA7vCd3SEgYvaQ2iaUDNfBQ0k1b3LWuKst0FCpFjbTg_Qu_yDCxNehPe3U8M/s1600/1977-12-04+Move+over+tracks.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "December 4 [1977]: The move over the Green Line tracks",
+    "creator": "unknown",
+    "date": "December 4, 1977",
+    "repository": "Glessner House Museum (blog); images courtesy Clarke House Museum where stated",
+    "collection": "Glessner House blog 'House Moving Part III: Clarke House, 1977'",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/08/house-moving-part-iii-clarke-house-1977.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-s.-indiana-avenue-(modern-location)-28"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a19-gh-field-g85-1-15-38",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKFytBVha_wWAwsfcWJXW7Tg4RdxZsbM3YVFQVPeGN8iN8cXNd95nWjOp9G7N-c2i9KNqdZIogoDM3V28PvYzCuIB3PwJpgxMPJHSMWs1fO4xg56Ji0urfEBgkUJScyuFZo3MFOiv8ak/s1600/G85.1.15.38.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "[Marshall Field residence, 1905 Prairie Avenue] (image file G85.1.15.38, illustrating the Field 'Mikado' ball of 1886)",
+    "creator": "unknown",
+    "date": "undated (c. 1880s)",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Glessner House blog 'The Mikado' (14 Mar 2016)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/03/the-mikado.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1905-16"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-gh-prairie-1800-1900-elevations",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4qFixHH-7D9dvcue3gb4XhIhUEvKWaCyYdc24MQcoRfQIJjxgWmdM64B2JHyWzwn4ku_yuyL-OErHlGIEDiEM7wVXWvDYjggGP1AUOwTeml-SM3qZf9pjUizYDfNOTPRsL9AuZAxRQA/s1600/11-04-18+Prairie+Avenue.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "[Row elevations of the 1800 and 1900 blocks of Prairie Avenue] 'East Side of Prairie Ave' / 'West Side of Prairie Ave'",
+    "creator": "unknown (lettering suggests a modern reconstruction drawing)",
+    "date": "undated drawing; depicts the street c. 1914 per the blog",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Glessner House blog 'Business Encroachment on Prairie Avenue' (18 Apr 2011)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2011/04/business-encroachment-on-prairie-avenue.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1936-11",
+    "pa-1912-10",
+    "pa-1906-34",
+    "pa-1900-25",
+    "pa-1901-15",
+    "pa-1905-16",
+    "pa-1919-26",
+    "pa-1923-35"
+   ],
+   "kind": "architectural drawing",
+   "view": "front elevation"
+  },
+  {
+   "id": "a19-gh-2ndpres-sanctuary",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIJnWaISilyHq68mw-4EcM9JXRxOCyAZEX9pTSGxXPiJ-JgaOcMiwKYUlqIr6q1x7CRkb70R7AuNBJaCkkZEKpTipv5jh0YjX2jNTsYaHEPWVzqykgHrvr51mHyqI63f5jV22adhKf75Y/s1600/2nd+Pres+sanctuary.JPG",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Second Presbyterian Church sanctuary (Shaw interior, 1900–01)",
+    "creator": "unknown",
+    "date": "undated modern colour photograph",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Glessner House blog 'Happy 150th birthday Howard Van Doren Shaw!' (7 May 2019)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2019/05/happy-150th-birthday-howard-van-doren.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1936-s.-michigan-avenue-32"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a19-gh-2ndpres-tree-of-life",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRSKoaMk5jYqkZQh0Ww1SuJkUs8jZ2uq46_3qYpXvSDL_V6ZAilAa5dxrWkiMnTizmAYxadksDyQysYtUnJ-6cX6bv8PFt7DFaws3Rn7pojtj6CnvFO3XNCi18xxc2PHlFKYalKdY1a8/s1600/13-03-25+Tree+of+Life.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "[Second Presbyterian Church] Tree of Life mural and chancel arch",
+    "creator": "Glessner House Museum (presumed)",
+    "date": "c. 2013",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Glessner House blog 'Second Presbyterian Church Designated a National Historic Landmark' (25 Mar 2013)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/03/second-presbyterian-church-designated.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1936-s.-michigan-avenue-32"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a19-aic-2ndpres-renwick-east-elevation",
+   "url": "https://www.artic.edu/iiif/2/424c5faf-3a05-9de7-81fa-f38664162f92/full/1686,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Second Presbyterian Church, Chicago, Illinois, East Elevation",
+    "creator": "Renwick & Sands (James Renwick Jr. and Joseph Sands), architects",
+    "date": "1874",
+    "repository": "Art Institute of Chicago, Department of Architecture and Design",
+    "collection": "Gift of Earl Reed and George Eich",
+    "catalog_url": "https://www.artic.edu/artworks/178879",
+    "rights": "public domain"
+   },
+   "building_ids": [
+    "pa-1936-s.-michigan-avenue-32"
+   ],
+   "kind": "architectural drawing",
+   "view": "front elevation"
+  },
+  {
+   "id": "a19-aic-2ndpres-renwick-north-elev",
+   "url": "https://www.artic.edu/iiif/2/bea1d622-7443-1955-bde3-07978ca8354f/full/1686,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Second Presbyterian Church, Chicago, Illinois, North Elevation",
+    "creator": "Renwick & Sands (James Renwick Jr. and Joseph Sands), architects",
+    "date": "1874",
+    "repository": "Art Institute of Chicago, Department of Architecture and Design",
+    "collection": "Gift of Earl Reed and George Eich",
+    "catalog_url": "https://www.artic.edu/artworks/178877",
+    "rights": "public domain"
+   },
+   "building_ids": [
+    "pa-1936-s.-michigan-avenue-32"
+   ],
+   "kind": "architectural drawing",
+   "view": "side elevation"
+  },
+  {
+   "id": "a19-aic-2ndpres-renwick-transverse",
+   "url": "https://www.artic.edu/iiif/2/7d9bb1d0-2b6f-b113-b4d9-967ccda662dc/full/1686,/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Second Presbyterian Church, Chicago, Illinois, Transverse Section",
+    "creator": "Renwick & Sands (James Renwick Jr. and Joseph Sands), architects",
+    "date": "1874",
+    "repository": "Art Institute of Chicago, Department of Architecture and Design",
+    "collection": "Gift of Earl Reed and George Eich",
+    "catalog_url": "https://www.artic.edu/artworks/178875",
+    "rights": "public domain"
+   },
+   "building_ids": [
+    "pa-1936-s.-michigan-avenue-32"
+   ],
+   "kind": "architectural drawing",
+   "view": "section"
+  },
+  {
+   "id": "a19-commons-fieldjr-2004",
+   "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Chicago_20041009_83_Marshall_Field_Mansion%2C_Prairie_Ave._%288635285351%29.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Chicago 20041009 83 Marshall Field Mansion, Prairie Ave. (8635285351).jpg",
+    "creator": "David Wilson (Flickr davidwilson1949)",
+    "date": "October 9, 2004",
+    "repository": "Wikimedia Commons (from Flickr)",
+    "collection": null,
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Chicago_20041009_83_Marshall_Field_Mansion,_Prairie_Ave._(8635285351).jpg",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1919-26"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-jyoti-cullerton-106",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuaz6WzhrJHLgiejqdpPYY7p0-C9-OwG7y966vgTSNB6nB7jtvVG5NNBXR0u9TFYg9p6qgvTBhTeu0HMAfy96_TURzWWB2xgFQSh5WWos18lF_pNATtQpCLPSmbQXnXQyoyx3rRE6PCAo/s400/LI-archi-PA-106b.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Corner rowhouse with copper oriel and turret gable [217 E. Cullerton]",
+    "creator": "Jyoti Srivastava (blog photographer; '© 2009' watermark on some)",
+    "date": "2009 (post date; photographs c. 2009)",
+    "repository": "Chicago - Architecture & Cityscape (blog)",
+    "collection": null,
+    "catalog_url": "http://chicago-architecture-jyoti.blogspot.com/2009/09/three-row-houses-at-east-cullerton.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-213–217-e.-cullerton-street-27"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-jyoti-cullerton-220",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZIpAbS5Oi7ucEs788wUDTMpV9QJOUI4aZYOm4_9RiPHsbYWUz9S7ivzFbSBuCMIYTdOqiPh2yo35hlIQ1PHdGiXFrGu3G3-zFyB3vDFa7WHM3I48nmbAYrBBIqI9s8BAPhP4OkIVzAyY/s400/LI-archi-PA-220b.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Row houses on East Cullerton, looking along the street",
+    "creator": "Jyoti Srivastava (blog photographer; '© 2009' watermark on some)",
+    "date": "2009 (post date; photographs c. 2009)",
+    "repository": "Chicago - Architecture & Cityscape (blog)",
+    "collection": null,
+    "catalog_url": "http://chicago-architecture-jyoti.blogspot.com/2009/09/three-row-houses-at-east-cullerton.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-213–217-e.-cullerton-street-27"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a19-jyoti-cullerton-222",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8jU25CuH2v3xvD8NFyMbRuOOrcUkQqZyjGlg-2hudFm-f6ZSBfOv9HRr8JvL9B72S4_FxtT7oIbef6iGKyMrEBcRD7LZshMK5YkihDwNbK8eXJTIT3GKG8KzvKXP-Df_FBpQmr3qa01A/s400/LI-archi-PA-222b.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "213 E Cullerton Street (entrance detail)",
+    "creator": "Jyoti Srivastava (blog photographer; '© 2009' watermark on some)",
+    "date": "2009 (post date; photographs c. 2009)",
+    "repository": "Chicago - Architecture & Cityscape (blog)",
+    "collection": null,
+    "catalog_url": "http://chicago-architecture-jyoti.blogspot.com/2009/09/three-row-houses-at-east-cullerton.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-213–217-e.-cullerton-street-27"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a19-jyoti-cullerton-224",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3epN0bYAJfYsl0UVNaKPBYxuPo91_sqWe3gL9hr2kHCl2Q87C1MVQBNa12YPYslbSXKEe05LFE6yLqw4INa1zDr2Trc6fYa0yh0vjACOrROqLtD1qs74XBnowx-VKAYCA_Gy_mmTXHDw/s400/LI-archi-PA-224b.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "215 E Cullerton Street",
+    "creator": "Jyoti Srivastava (blog photographer; '© 2009' watermark on some)",
+    "date": "2009 (post date; photographs c. 2009)",
+    "repository": "Chicago - Architecture & Cityscape (blog)",
+    "collection": null,
+    "catalog_url": "http://chicago-architecture-jyoti.blogspot.com/2009/09/three-row-houses-at-east-cullerton.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-213–217-e.-cullerton-street-27"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a19-jyoti-cullerton-223",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0PGqoExrb5zTfMu0gB9X9VrHfD7Q9syz173jrbR499lBgRQ982nCIAbU2v6_qxTb12fjeq-noYChgWlvq4_zcpLnnzp0XQ2fANo9Tpl5lWDfn2JVKLCuf6C7sR53Fxjon0l_HV2YIbfw/s400/LI-archi-PA-223b.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "217 E Cullerton Street (ground floor)",
+    "creator": "Jyoti Srivastava (blog photographer; '© 2009' watermark on some)",
+    "date": "2009 (post date; photographs c. 2009)",
+    "repository": "Chicago - Architecture & Cityscape (blog)",
+    "collection": null,
+    "catalog_url": "http://chicago-architecture-jyoti.blogspot.com/2009/09/three-row-houses-at-east-cullerton.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-213–217-e.-cullerton-street-27"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a19-jyoti-cullerton-225",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhht3_yDTmynvgA8uit0tx76XrcDCn_ms8c8nEvJBb917jQ_1ajVFMYkvxaZMvRrQu7kT2aTgvXxq5zdn7qQZ04x2sJvlNtp3Mzps19C4mHFIIWSGuWfR7KWrtDofvO-4QnpHY7DpI6BV4/s400/LI-archi-PA-225b.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Three row houses at East Cullerton (overall view)",
+    "creator": "Jyoti Srivastava (blog photographer; '© 2009' watermark on some)",
+    "date": "2009 (post date; photographs c. 2009)",
+    "repository": "Chicago - Architecture & Cityscape (blog)",
+    "collection": null,
+    "catalog_url": "http://chicago-architecture-jyoti.blogspot.com/2009/09/three-row-houses-at-east-cullerton.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-213–217-e.-cullerton-street-27"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a19-gh-1981-gaylord-factory-1936-site",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaxDOdt-wpkwpbC5zLVX3jYTop6o78UMAsY-ADtqT4pJ1CSIgRQM_RKSyqbr1Kyft0fR-MIPBDR7aL-NDdbvkKoK5br2bbNNGTfEw_-FY5RcYDlvCl4iDFBqSHZcGf-a90u7h1WIzORWs/s1600/Hump+Hairpin.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "The northwest corner of Prairie Avenue and Cullerton … occupied by the factory for Gaylord Products (1981)",
+    "creator": "unknown (photographs taken for the museum, 1981, per post)",
+    "date": "1981",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Glessner House blog 'Flashback 1981 – Glessner House and Prairie Avenue' (7 Jun 2016)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1936-11",
+    "pa-1900-25"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a19-gh-1981-donnelley-warehouse-1905-site",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRRRpeoIf3yHTQ7zNrtKKAwtzVV0touOfE4Le-MO0ISC7-N_fIbiIugHVwAL7EALJOYU0aj-ghxiaSvuku-BUNLS3NHQbHuao3UqNytXV0XZ0yUamIJ5_WKU9vTlFJdZFwa50V5QqydQo/s1600/1913+PA+warehouse.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "A huge warehouse, erected by R. R. Donnelley, marked the site of the former Marshall Field mansion (1981)",
+    "creator": "unknown (photographs taken for the museum, 1981, per post)",
+    "date": "1981",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Glessner House blog 'Flashback 1981'",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1905-16"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-gh-1981-fieldjr-1919",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4yMQeO4-wqlfZU_BD-Zfq1CpWoD1ZhzFqtG9SbUUNBH9AHUszKWBSXSuP6kKyyaWpWBBoBZE-YK3NivO-KVQr2Q-S9rPHA6Dmfr4tywuq3lDE4qyKkYBrCXzbmitM_iHDP9687LjmAWc/s1600/Field+Jr+1981.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Marshall Field Jr. house, 1919 S. Prairie Avenue (1981)",
+    "creator": "unknown (photographs taken for the museum, 1981, per post)",
+    "date": "1981",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Glessner House blog 'Flashback 1981'",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1919-26"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a19-gh-1955-field-demolition",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSvNPFCqQ63RnijWGqrt5pOJ9Ndbsd8fH6-n_6BV_z3avIoBMwVReT5mLqmWl0LI1sjsaWNxEj7kA3m7LqGBEZGqXjkjO2RzMyJkDahhha_jFUk5IWI4qHDauSFNoahezgqCpUq4MsZg4/s1600/13-07-22+1905+PA+demolition.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "[Marshall Field house, 1905 Prairie Avenue, during demolition, 1955] (file '13-07-22 1905 PA demolition')",
+    "creator": "probably Jack Simmerling (the post says he travelled from Notre Dame to witness the demolition)",
+    "date": "1955 (demolition, March 1955)",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "Glessner House blog 'Jack Simmerling (1935–2013): A Tribute' (22 Jul 2013)",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/07/jack-simmerling-1935-2013-tribute.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1905-16"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a19-uic-daley-clarke-1963",
+   "url": "https://collections.carli.illinois.edu/digital/api/singleitem/image/uic_rjdaley/3255/default.jpg",
+   "max": 2000,
+   "stream": "stream-1900.json",
+   "credit": {
+    "title": "Richard J. Daley and others on porch of Clarke House",
+    "creator": "Rhoden's Photo and Press Service",
+    "date": "circa 1963",
+    "repository": "University of Illinois Chicago Library, Special Collections (via CARLI Digital Collections)",
+    "collection": "Richard J. Daley Era Photographs — 'Camera Highlights of the '63 Campaign…' scrapbook",
+    "catalog_url": "https://collections.carli.illinois.edu/digital/collection/uic_rjdaley/id/3255",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-s.-indiana-avenue-(modern-location)-28"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a20-chicagology-2100-sherman-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/2100prairie.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2100 S. Prairie Avenue",
+    "creator": "unknown photographer",
+    "date": "undated (19th century; costume suggests c. 1885–1895)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2100prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2100-18"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-chicagology-2009-2011-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2009sprairie.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2009 S. Prairie Avenue (left) / 2011 S. Prairie Avenue (right)",
+    "creator": "unknown",
+    "date": "undated (c. 1890s; reproduced as a halftone publication plate)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2009prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2009-17"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a20-chicagology-2021-high-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2021prairie1930.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Shirley T. High Residence 2021 Prairie Avenue",
+    "creator": "unknown",
+    "date": "undated (file name suggests 1930; halftone with snow)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2021prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2021-36"
+   ],
+   "kind": "publication plate",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-chicagology-2031-2035-engraving",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2031and2035prairie.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "[Prairie Avenue sidewalk view, 2031–2035 S. Prairie] (untitled engraving reproduced on Chicagology 2031 and 2035 pages)",
+    "creator": "unknown engraver",
+    "date": "undated (1870s–1880s engraving)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2031prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2031-nrhp",
+    "pa-2033-nrhp",
+    "pa-2035-nrhp"
+   ],
+   "kind": "engraving",
+   "view": "street view"
+  },
+  {
+   "id": "a20-chicagology-2033-walker-evans",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2033sprairiewalkerevans1946.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2033 S. Prairie (Walker Evans, 1946) — Chicagology reproduction",
+    "creator": "Walker Evans",
+    "date": "1946",
+    "repository": "Chicagology (reproduction); original print at Art Institute of Chicago (see a20-aic-walker-evans-2033)",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2033prairie/",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-2033-nrhp"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a20-chicagology-2036-street-engraving-1880",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2000blockprairieave1880.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Buckingham house at far left in 1880 (Prairie Avenue 2000 block, engraved street view)",
+    "creator": "unknown engraver",
+    "date": "1880 (Chicagology caption)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2036prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2036-38"
+   ],
+   "kind": "engraving",
+   "view": "street view"
+  },
+  {
+   "id": "a20-chicagology-2110-rees-street-c1895",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/reeshouse1895.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Rees House (arrow), about 1895.",
+    "creator": "unknown (cropped detail; arrow added by Chicagology)",
+    "date": "about 1895 (Chicagology caption)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2110prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2110-30",
+    "pa-2108-40",
+    "pa-2112-39",
+    "pa-2100-18"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a20-chicagology-2115-armour-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2115prairiearmourmansion.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2115 S. Prairie (Armour mansion)",
+    "creator": "unknown",
+    "date": "undated (winter; c. 1890s–1930s)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2115prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2115-19",
+    "pa-2109-41"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a20-chicagology-2140-photo-a",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2140prairie1880.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2140 Prairie Ave. (first photograph on Chicagology page, file name \"2140prairie1880\")",
+    "creator": "unknown",
+    "date": "undated; file name says 1880 but the Romanesque house with round tower at right (consistent with Cobb's 1890 Murdoch house at 2130) indicates after 1890",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2140prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2140-21",
+    "pa-2130-42"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-chicagology-2140-photo-b",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/postfire2/2140prairie.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2140 Prairie Ave. (second photograph on Chicagology page)",
+    "creator": "unknown",
+    "date": "undated (after 1890 — the uncropped version on the Glessner blog shows the 1890 Murdoch house next door)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2140prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2140-21"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-chicagology-2140-smith-dining-room",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/byronlsmithdiningroom.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Byron Laflin Smith dining room (reassembled at Northern Trust)",
+    "creator": "unknown",
+    "date": "undated (after 1936 reinstallation)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2140prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2140-21"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "a20-chicagology-2001-street-1915",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2001prairie1915.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2001 Prairie Ave 1915",
+    "creator": "unknown; plate number \"47\" on print",
+    "date": "1915 (Chicagology caption)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2001prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a20-chicagology-2017-armour-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2017prairiearmour.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2017 S. Prairie (William Armour residence)",
+    "creator": "unknown",
+    "date": "undated (19th century)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2017prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a20-glessner-2100-block-west-side-1890s",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3dAJ-v9IDp_TkoY0P54C_R68hCAAzHhyphenhyphensUmGR1jyxAlPOt9-9h4eMEx8K_pzN_78S72v5Vi2JT17xeyR8BztNq0wTgGz3XQYIk77qjriBQYcuBpKHq8pJLMn78CCUfzPA96AVDxGkGhE/s1600/14-08-04+2100+block+NW.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "The 2100 block of Prairie Avenue looking northwest, 1890s",
+    "creator": "unknown",
+    "date": "1890s (blog caption: \"early 1890s\")",
+    "repository": "Glessner House Museum (blog \"The Story of a House\"); original holder of historic images not credited",
+    "collection": "glessnerhouse.blogspot.com",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/08/moving-house-on-prairie-avenue-1891.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2112-39",
+    "pa-2110-30",
+    "pa-2108-40",
+    "pa-2100-18",
+    "pa-2036-38"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a20-glessner-2100-block-west-side-2014",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyBbJHAxLO0rAlHmINcoFYnArqbpNfZVx8Cm5JNu5Mqau1LgNwO6WsiAolLIGLDLaIWUDIGjROp4y2AhOYUaeqriVasllCAuUSOKoV8YdnSK-Z8XuYPNooAjiDWvxtLc3GcoGarHbrmSo/s1600/14-04-21+2100+block+NW+now.JPG",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "The same view, April 2014",
+    "creator": "Glessner House Museum (William Tyre?)",
+    "date": "April 2014",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "glessnerhouse.blogspot.com",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/04/the-rees-house-and-changing-face-of.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-2110-30"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a20-glessner-rees-exterior-2012",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigBkILKURKPtzrKunI0XQyumIjeKgBzkAEpBcu12ItC0xDujiC8YMU_E-dr0pfsELPQwlCi5Zlwx4JyKF9iX5n_6y2WM0x7eNy9KV1zhBOUD7qZxoLl3E-dW5DxwU2QolJwCipo08nWh4/s1600/12-01-09+Rees+exterior.JPG",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Rees exterior (gable detail), 2012",
+    "creator": "Glessner House Museum",
+    "date": "January 2012 (post date)",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "glessnerhouse.blogspot.com",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2012/01/prairie-avenue-mansion-designated.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-2110-30"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a20-glessner-rees-coach-house-2014",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6_ZCAPUwJTtx65XqgyBQ_Wfd89TYzz_Y2VUf7wgwReqgmZk_vRZT3WrqqIL5IelTYyvoMdhMqTaWqD3upy2FLKbO5yIK12HbPU4L6xXEmNHi4698vyElknCt7iRKnd0qMblIQXDzoA-M/s1600/DSCN1289.JPG",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Rees coach house before relocation (2014)",
+    "creator": "Glessner House Museum",
+    "date": "2014",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "glessnerhouse.blogspot.com",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/10/rees-coach-house-relocated.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-2110-30",
+    "pa-2108-40"
+   ],
+   "kind": "photograph",
+   "view": "rear"
+  },
+  {
+   "id": "a20-glessner-rees-house-move-2014",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg81fjedaT00TXWnf3tZX1l6rq1xiiKvjiht7kTBvNYduxw6YPnXt-ODHHtro6ZODp1GQX56NwpKZhRsHg0Gh1lj8Te8HDeoQ6pE3ICHtQd0HXGUWzV9VacBIV1ZdqhHi9Jh_o3NqvWYxw/s320/DSCN3264.JPG",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Harriet Rees House Moved (photo series, 11–12 Nov 2014)",
+    "creator": "Glessner House Museum",
+    "date": "November 11–12, 2014",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "glessnerhouse.blogspot.com",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/11/harriet-rees-house-moved.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-2110-30"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-glessner-prairie-house-cafe-postcard",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGIXvg13W9G3y3ODK7r6Xx4xi7Zgk5aL2242dAREdvEahqECOHgbcjoP0ZAc5qrcrfzoQYEuTtxlXwe65epRy2ahkYcAJmcHKgiqJX0MN9ZxG26M-nwhBen8M2YfhEw0pMG-UGFc-Hf4E/s1600/14-04-21+Rees+house+as+cafe.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Rees house as the Prairie House Café (1970s postcard)",
+    "creator": "unknown",
+    "date": "1970s (blog: café operated in the 1970s)",
+    "repository": "Glessner House Museum (blog \"The Story of a House\"); original holder of historic images not credited",
+    "collection": "glessnerhouse.blogspot.com",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2014/04/the-rees-house-and-changing-face-of.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2110-30"
+   ],
+   "kind": "postcard",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-glessner-hanford-excavation-2001",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUFhzhge-1_Lvqhv0BA6nKwDtpdz6tVa_8u7QjkZriZ4wpjDBjhtiHpXCRMMSF51bQpWuwIwqzdWjnm_dMmhQDILbKxZHiAK238BFZuVN8uGcPs-FC9YSJH6bGxj0ezWO5RBKW96j3Xw/s1600/Excavation+foundation.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Hanford house foundation excavation, 2001 (Jack Simmerling photographs)",
+    "creator": "Jack Simmerling",
+    "date": "2001",
+    "repository": "Glessner House Museum (blog \"The Story of a House\"); original holder of historic images not credited",
+    "collection": "glessnerhouse.blogspot.com",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/03/unearthing-hanford.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-2008-s.-calumet-avenue-56"
+   ],
+   "kind": "photograph",
+   "view": "plan"
+  },
+  {
+   "id": "a20-glessner-wheeler-entry-2012",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGAHhC-6Aa6YIYArxh0CvgLpbGlS2L05U4aNbzl0xUgC9EYW1p7D_zwcmR1aAp7DPNQRc9sldUAj-fgVgnMGgz4AwtDvWk3ug6wOWkyT8EMyS7ADKrBdcxvTf70DX8QnegfQnVD2rKD3w/s1600/12-06-04+Wheeler+exterior.JPG",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Wheeler exterior (entry porch), 2012",
+    "creator": "Glessner House Museum",
+    "date": "June 2012 (post date)",
+    "repository": "Glessner House Museum (blog)",
+    "collection": "glessnerhouse.blogspot.com",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2012/06/wheeler-mansion-featured-on-annual-tour.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-2018-s.-calumet-avenue-31"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "a20-aic-taylor-sherman-residence",
+   "url": "https://artic.contentdm.oclc.org/digital/api/singleitem/image/mqc/29581/default.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Sherman, John B., Residence",
+    "creator": "J. W. Taylor, photographer, Chicago",
+    "date": "c.1890s (view date)",
+    "repository": "Art Institute of Chicago, Ryerson & Burnham Archives",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865–1973",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/29581",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2100-18"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-aic-reed-1941-2021-2033-prairie",
+   "url": "https://artic.contentdm.oclc.org/digital/api/singleitem/image/mqc/65500/default.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Prairie Avenue [approximately 2021–2033 S. Prairie Ave. at 21st St., looking northeast]",
+    "creator": "Earl H. Reed (for Chicago Plan Commission)",
+    "date": "1941–1942",
+    "repository": "Art Institute of Chicago, Ryerson & Burnham Archives",
+    "collection": "Historic Architecture and Landscape Image Collection, c.1865–1973 (00.20)",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/65500",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2021-36",
+    "pa-2031-nrhp",
+    "pa-2033-nrhp",
+    "pa-2035-nrhp"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a20-aic-rees-c1980s-photo",
+   "url": "https://artic.contentdm.oclc.org/digital/api/singleitem/image/mqc/5235/default.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Rees, Harriet, Residence (c.1980s)",
+    "creator": "unknown",
+    "date": "c.1980s (view date)",
+    "repository": "Art Institute of Chicago, Ryerson & Burnham Archives",
+    "collection": "Other collections",
+    "catalog_url": "https://artic.contentdm.oclc.org/digital/collection/mqc/id/5235",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2110-30"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "a20-ghm-simmerling-hanford-demolition-1953",
+   "url": "https://images.squarespace-cdn.com/content/v1/55ef0304e4b03f4c029572a4/48ca7377-81d6-415d-955a-85c1df2f2f64/115+-+Hanford+house+demolition.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "Hanford house demolition (oil painting by Jack Simmerling, 1953)",
+    "creator": "Jack Simmerling (1935–2013), age 17",
+    "date": "1953",
+    "repository": "Glessner House Museum (Simmerling collection), shown on glessnerhouse.org",
+    "collection": "Glessner House Museum online collection highlights / puzzles, no. 115",
+    "catalog_url": "https://www.glessnerhouse.org/hanford-house-demolition",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-2008-s.-calumet-avenue-56"
+   ],
+   "kind": "engraving",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-glessner-vanosdel-2140-photo",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGIVLNt9WrG1NxNI553hEwzgEG7KRLze5ScvVgjIIuSInGbTocy8lNzgxAhmrCM1YWAKFWpAwy9lS1NYUmFcWJexNeoBT_Pcz_DnrGxGC9z_Zqu-ZGjLs4NQr7hC6d9HwHuxTqtE37JVw/s1600/2140+S+Prairie+Ave.JPG",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2140 S. Prairie Avenue (illustration in \"John M. Van Osdel, Chicago's First Architect\")",
+    "creator": "unknown",
+    "date": "undated (after 1890: the Murdoch house of 1890 is visible at right)",
+    "repository": "Glessner House Museum (blog); original holder not credited",
+    "collection": "glessnerhouse.blogspot.com, 2015-08-31",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/08/john-m-van-osdel-chicagos-first.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-2140-21",
+    "pa-2130-42"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a20-glessner-2100-block-east-side-1890s",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdRPP9djIU_2aOh1EvemiTcdIlMEcRu71cb2lNhpLLv9KGAjgLaNaD5kOnC9_xygS_21T-q-_dUtY4t69iXxTHcGi_QLLR9rRg-mItu1_biHxHWmaUvu0kFX8r8ycKQGRRseKOhprKh5Q/s1600/Historic+view.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "The 2100 block of Prairie Avenue in the 1890s; site of the new Marriott Marquis Chicago Hotel.",
+    "creator": "unknown",
+    "date": "1890s (blog caption)",
+    "repository": "Glessner House Museum (blog); original holder not credited",
+    "collection": "glessnerhouse.blogspot.com, 2015-08-03 \"Marriott Marquis breaks ground\"",
+    "catalog_url": "https://glessnerhouse.blogspot.com/2015/08/marriott-marquis-breaks-ground.html",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "a20-chicagology-2120-gorton-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/2120sprairie.jpg",
+   "max": 2000,
+   "stream": "stream-2000-2100.json",
+   "credit": {
+    "title": "2120 S. Prairie Ave.",
+    "creator": "unknown",
+    "date": "undated (c. 1880s–1900s)",
+    "repository": "Chicagology (chicagology.com) — website compilation; original holder not credited on page",
+    "collection": "Chicagology: Prairie Avenue address pages",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/2120prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "cgn-1701-hibbard-photo-wide",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1701prairie.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "1701 S. Prairie [William G. Hibbard residence]",
+    "creator": "unknown photographer",
+    "date": "undated (after the 1874 addition; probably 1880s–1890s)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1701 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1701prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1701-3"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "cgn-1701-hibbard-portrait",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/williamghibbard.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "William G. Hibbard [portrait]",
+    "creator": "unknown engraver",
+    "date": "undated",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1701 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1701prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1701-3"
+   ],
+   "kind": "engraving",
+   "view": "detail"
+  },
+  {
+   "id": "cgn-1702-staples-photo-copy",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1702prairieA.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "1702 S. Prairie. [John N. Staples house before the Harvey remodelling]",
+    "creator": "unknown photographer",
+    "date": "undated (before the 1880 remodelling)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1702 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1702prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1702-43"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "cgn-1702-harvey-remodelled-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1702prairie.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "1702 S. Prairie after Mr. Harvey remodeled the house.",
+    "creator": "unknown photographer",
+    "date": "undated (after the 1880 Harvey remodelling; before the 1899 sale and razing)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1702 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1702prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1702-43"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "cgn-1729-drawing-room",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/1729prairiedrawingroom.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "Pullman drawing room, 1729 S. Prairie [interior]",
+    "creator": "unknown photographer",
+    "date": "undated",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1729 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1729prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "cgn-1729-pullman-1902",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/1729prairie1902.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "Pullman Mansion 1902",
+    "creator": "unknown photographer (halftone reproduction)",
+    "date": "Chicagology caption 1902 (source not given)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1729 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1729prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "cgn-1800-glessner-1887-construction-copy",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/glessnerhouse1887.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "John J. Glessner, 1800 S. Prairie, 1886 and 1887 [second image: house under construction]",
+    "creator": "unknown photographer",
+    "date": "1887",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1800 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1800prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "cgn-1804-1853-map-prairie-old-to-cross",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/pomeroy1853map.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "Prairie Avenue, Old (18th street) to Cross (19th street), 1853 [map]",
+    "creator": "unknown (map publisher not named on the page)",
+    "date": "1853 (per the page caption)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1804 and 1824 pages (file name \"pomeroy1853map\"); original holder not credited",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1804prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "atlas plate",
+   "view": "map"
+  },
+  {
+   "id": "cgn-1811-coleman-ames-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1811sprairie.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "1811 S. Prairie Ave. [Coleman / Ames house]",
+    "creator": "unknown photographer",
+    "date": "undated (after 1886)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1811 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1811prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1811-24"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "cgn-1815-sears-dining-room",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/josephsears1815prairiediningroom.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "John Sears' dining room at 1815 S. Prairie.",
+    "creator": "unknown photographer",
+    "date": "undated (Sears occupancy 1882–1902)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1815 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1815prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1815-12"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "cgn-1815-sears-log-cabin-playhouse",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1815prairielogcabin.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "Log Cabin Playhouse at 1815 S. Prairie [as re-erected in Kenilworth]",
+    "creator": "unknown photographer",
+    "date": "undated (after the 1892 move to Kenilworth)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1815 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1815prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1815-12"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "cgn-1815-meeker-prairie-avenue-jacket-1949",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/prairieavenuemeeker.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "Prairie Avenue, a novel by Arthur Meeker (Alfred A. Knopf, 1949) — dust jacket",
+    "creator": "Alfred A. Knopf (jacket artist not named)",
+    "date": "1949",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1815 page (uncaptioned)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1815prairie/",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [],
+   "kind": "publication plate",
+   "view": "street view"
+  },
+  {
+   "id": "cgn-1824-pomeroy-italianate-copy",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages8/1824prairie.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "1824 Prairie Avenue",
+    "creator": "unknown photographer",
+    "date": "undated (before the later stone front)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1824 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1824prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1824-8"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "cgn-1827-doane-exterior",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/postfire/1827prairie.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "1827 S. Prairie [John W. Doane residence]",
+    "creator": "unknown photographer",
+    "date": "undated (after completion in late 1882)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1827 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1827prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-14"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "cgn-1827-doane-main-hall",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/1827prairieentrance.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "The Main Hall Entryway, with stairway leading to the second story. [1827 S. Prairie]",
+    "creator": "unknown photographer",
+    "date": "undated (probably 1883–84)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1827 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1827prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1827-14"
+   ],
+   "kind": "photograph",
+   "view": "interior"
+  },
+  {
+   "id": "cgn-1828-shipman-automobile-copy",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1828sprairie.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-north.json",
+   "credit": {
+    "title": "1828 S. Prairie Ave. About 1897",
+    "creator": "unknown photographer",
+    "date": "Chicagology caption \"about 1897\"",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology 1828 page (no source credited)",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1828prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "cgs-1834-jones-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/chicagoimages9/1834sprairie.jpg",
+   "max": 2000,
+   "stream": "stream-chicagology-south.json",
+   "credit": {
+    "title": "1834 S. Prairie",
+    "creator": "unknown photographer (not credited on the page)",
+    "date": "undated (no date on the page)",
+    "repository": "Chicagology (chicagology.com)",
+    "collection": "Chicagology Prairie Avenue address pages (1834 page); original holder not credited",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/1834prairie/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1834-9"
+   ],
+   "kind": "photograph",
+   "view": "oblique front"
+  },
+  {
+   "id": "a18-iit-glessner-prairie-facade-1945",
+   "url": "https://repository.iit.edu/islandora/object/islandora%3A1001086/datastream/JPG/view",
+   "max": 2000,
+   "stream": "stream-glessner-recovery.json",
+   "credit": {
+    "title": "Glessner House, Chicago, Illinois, 1945",
+    "creator": "Unknown photographer",
+    "date": "1945 (IIT catalog)",
+    "repository": "Illinois Institute of Technology, University Archives and Special Collections",
+    "collection": "Office of Communications and Marketing photographs, 1905–1999",
+    "catalog_url": "https://repository.iit.edu/islandora/object/islandora%3A1001086",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22"
+   ],
+   "kind": "photograph",
+   "view": "front elevation"
+  },
+  {
+   "id": "st-chicagology-prairie-avenue-about-1890-photo",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/prairie1890.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "Prairie Avenue, about 1890 [chicagology caption]",
+    "creator": "unrecorded photographer",
+    "date": "about 1890 (website caption)",
+    "repository": "Chicagology (chicagology.com) — secondary website reproduction; original holder not stated",
+    "collection": "Chicagology, \"Prairie Avenue\" street history page",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "st-chicagology-prairie-avenue-1887-pullman-north",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/postfire/prairie1887.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "Prairie Avenue, 1887 [chicagology caption]",
+    "creator": "unrecorded photographer",
+    "date": "1887 (website caption)",
+    "repository": "Chicagology (chicagology.com) — secondary website reproduction; original holder not stated",
+    "collection": "Chicagology, \"Prairie Avenue\" street history page",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1729-5",
+    "pa-1721-4"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "st-chicagology-prairie-elevation-strips",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/postfire/prairieavenue.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "East Side of Prairie Ave. / West Side of Prairie Ave. [elevation strips; chicagology \"Prairie Avenue\"]",
+    "creator": "unrecorded",
+    "date": "undated (appears to be a later reconstruction drawing)",
+    "repository": "Chicagology (chicagology.com) — secondary website reproduction; original holder not stated",
+    "collection": "Chicagology, \"Prairie Avenue\" street history page",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "architectural drawing",
+   "view": "front elevation"
+  },
+  {
+   "id": "st-chicagology-1935-aerial-donnelley-northwest",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/postfire/calumetprairieaerial.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "An aerial view of what the neighborhood looked like in 1935 … looking northwest, R. R. Donnelley plant in the foreground [chicagology caption]",
+    "creator": "unrecorded (aerial photographer)",
+    "date": "1935 (website caption)",
+    "repository": "Chicagology (chicagology.com) — secondary website reproduction; original holder not stated",
+    "collection": "Chicagology, \"Prairie Avenue\" street history page",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "aerial",
+   "view": "aerial"
+  },
+  {
+   "id": "st-chicagology-1941-prairie-at-18th",
+   "url": "https://chicagology.com/wp-content/themes/revolution-20/goldenage2/18thprairieavenue1942.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "1801 S. Prairie Ave. (Kimball); 1808 S. Prairie Ave. (O. R. Keith); 1811 S. Prairie Ave. (Coleman) 1941-1942 [chicagology caption]",
+    "creator": "unrecorded photographer",
+    "date": "1941–1942 (website caption)",
+    "repository": "Chicagology (chicagology.com) — secondary website reproduction; original holder not stated",
+    "collection": "Chicagology, \"Prairie Avenue\" street history page",
+    "catalog_url": "https://chicagology.com/chicagostreets/prairieavenue/",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [
+    "pa-1801-23",
+    "pa-1808-6",
+    "pa-1811-24"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "st-ghm-1800-block-restored-streetscape-1981",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi5BGL1pboUPuanfVG-rewrjoUODIe1pxnRZMH_fRHX0lh7IM0m6bL1ogx7gxSVMGVqDY1AOZ1F7Cg-nOha0za2DdwY2G-dsTHj6JULIYqw9ivZID8Pbg-_mOjXViiDjhq72AmnKRy4u8/s1600/Historic+District+sm.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "The streetscape on the 1800 block of Prairie Avenue (restored 1978), June 7, 1981",
+    "creator": "William Tyre",
+    "date": "June 7, 1981",
+    "repository": "Glessner House Museum (via its blog \"The Story of a House\")",
+    "collection": "blog post \"Flashback 1981 - Glessner House and Prairie Avenue\" (June 2016)",
+    "catalog_url": "http://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1800-22",
+    "pa-1801-23"
+   ],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "st-ghm-18th-street-bridge-over-ic-pre2004",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaMSjncnqrdidwXguFpJbu2_ylz7PxIIZdiuqwkuVj87IBjF4Vt4VtdRrmKxdxz7kr9sQGQHdB2Oxyqf3cga_AWoet7I9doTdQ9_yBnZAdvK5dNlSOsa6i7xd-JRX4qnuZ8hR0o3jFvh0/s1600/Bridge+over+IC+tracks.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "[Wooden footbridge over the Illinois Central tracks at the east end of 18th Street, built for the 1933 Century of Progress]",
+    "creator": "unrecorded (blog image)",
+    "date": "before 2004 (cars in view look 1990s; shown in a post about a 1981 visit)",
+    "repository": "Glessner House Museum (via its blog \"The Story of a House\")",
+    "collection": "blog post \"Flashback 1981 - Glessner House and Prairie Avenue\" (June 2016)",
+    "catalog_url": "http://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [],
+   "kind": "photograph",
+   "view": "street view"
+  },
+  {
+   "id": "st-ghm-pullman-garden-wall-remnant",
+   "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJYoNPYZPo1VzISlhS6BPwk9W7r7-BhYTbwLDl8UZ7eXNKOzUiSV2iHye1K4-fHXG5sa8X9dTTM5Pa1955NrE77tDXRX6hvUUk2y-6RA3KxsCxUObotDkmLa_rYI7JZwrsk9g8jBnDiQ/s1600/6-Pullman+wall.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "[Remnant of George Pullman's brownstone garden wall, east side of Calumet Avenue at 18th Street]",
+    "creator": "unrecorded (blog image)",
+    "date": "before 2004 (shown in post about a 1981 visit)",
+    "repository": "Glessner House Museum (via its blog \"The Story of a House\")",
+    "collection": "blog post \"Flashback 1981 - Glessner House and Prairie Avenue\" (June 2016)",
+    "catalog_url": "http://glessnerhouse.blogspot.com/2016/06/flashback-1981-glessner-house-and.html",
+    "rights": "copyright — link only"
+   },
+   "building_ids": [
+    "pa-1729-5"
+   ],
+   "kind": "photograph",
+   "view": "detail"
+  },
+  {
+   "id": "st-uic-caps-1938-lakeshore-mosaic-image6",
+   "url": "https://digital.library.uic.edu/iiif/2/4279927/full/full/0/default.jpg",
+   "max": 2000,
+   "stream": "stream-streetscape.json",
+   "credit": {
+    "title": "1938 Chicago Lakeshore Flight (18269 & 18270), Image 6",
+    "creator": "Chicago Aerial Photographic Service",
+    "date": "1938 (series date; item dated 1937 in the collection facet)",
+    "repository": "University of Illinois Chicago Library, Special Collections and University Archives",
+    "collection": "Chicago Aerial Photographic Service collection, Series II: Aerial Reels",
+    "catalog_url": "https://n2t.net/ark:/81984/d3d50g77j",
+    "rights": "unknown — link only"
+   },
+   "building_ids": [],
+   "kind": "aerial",
+   "view": "aerial"
+  }
+ ]
+}

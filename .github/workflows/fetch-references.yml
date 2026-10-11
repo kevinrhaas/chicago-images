@@ -1,0 +1,39 @@
+# Fetches every image a collection's fetch-queue.json lists into the store, as reference copies
+# with their credit (owner, 2026-10-11, kevinrhaas/chicago T-2368), and commits the files and
+# fetch-results.json back to the branch that queued them. Runs here because the sessions that
+# build the houses cannot reach chicagology and the other holders; Actions can.
+name: fetch-references
+on:
+  push:
+    paths: ['*/fetch-queue.json', 'tools/fetch_queue.py', '.github/workflows/fetch-references.yml']
+  workflow_dispatch:
+    inputs:
+      retry:
+        description: retry entries that failed before
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: fetch-references-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install Pillow
+      - name: fetch
+        run: python3 tools/fetch_queue.py prairie-1904 ${{ inputs.retry && '--retry' || '' }}
+      - name: commit
+        run: |
+          git config user.name "chicago-images fetch"
+          git config user.email "actions@users.noreply.github.com"
+          git add prairie-1904/files prairie-1904/fetch-results.json
+          if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
+          git commit -m "prairie-1904: reference copies fetched from the queue ($(git diff --cached --name-only -- prairie-1904/files | grep -vc thumb) images)"
+          git push origin HEAD:${{ github.ref_name }}
