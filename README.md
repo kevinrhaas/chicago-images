@@ -19,8 +19,15 @@ with its record, source and rights, so nothing here is ever unsourced.
 
 ## Rules
 
-- **Only public-domain or no-known-restrictions items are stored.** Everything else stays a link
-  to its holder in the record. The rights basis for each file is in `MANIFEST.json`.
+- **Public-domain and no-known-restrictions items are stored as the library's own copies.**
+  The rights basis for each file is in `MANIFEST.json`.
+- **Reference copies, with their credit (owner, 2026-10-11).** A picture of a building that the
+  library could only link (chicagology and other sites, rights unknown or held) may be stored so
+  every build is checked against it: *"bring them into our repo and include attribution"*. Its
+  record keeps its `rights` and carries `reference_copy` with the credit shown wherever it is.
+  It is never made into a texture or traced, and it is deleted if its holder asks.
+  `tools/fetch_queue.py` (run by `.github/workflows/fetch-references.yml`) fetches the queue in
+  `<collection>/fetch-queue.json`, which kevinrhaas/chicago writes from its records.
 - **Files are written by tools, never by hand.**
   - `chicago/prairie_1904_v1/tools/fetch_image.py` in kevinrhaas/chicago fetches and derives an
     image straight into a clone of this repository, which sits beside the chicago clone.
