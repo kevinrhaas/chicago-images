@@ -1399,6 +1399,90 @@
    }
   }
  },
+ "a18-commons-glessner-house-jpg": {
+  "local": {
+   "display": "research/images/files/a18-commons-glessner-house-jpg.jpg",
+   "display_bytes": 811005,
+   "fetched": "2026-10-20",
+   "fetched_from": "https://commons.wikimedia.org/wiki/Special:FilePath/Glessner_House.jpg?width=3000",
+   "original_bytes": 1624996,
+   "original_px": [
+    3840,
+    2236
+   ],
+   "original_sha256": "39d6f876cbbd2b50334d2cfc644d767c53f6ffc11d2de25f4e7a72d312f764a1",
+   "thumb": "research/images/files/a18-commons-glessner-house-jpg-thumb.jpg",
+   "thumb_bytes": 20538
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Glessner_House.jpg",
+    "collection": "Category:John J. Glessner House",
+    "creator": "per the Wikimedia Commons file page",
+    "date": "per the Wikimedia Commons file page",
+    "repository": "Wikimedia Commons",
+    "rights": "per the Wikimedia Commons file page (free licence)",
+    "title": "Glessner House (Commons 'Glessner House.jpg')"
+   }
+  }
+ },
+ "a18-commons-glessner-prairie-18th-52907569502": {
+  "local": {
+   "display": "research/images/files/a18-commons-glessner-prairie-18th-52907569502.jpg",
+   "display_bytes": 1362020,
+   "fetched": "2026-10-20",
+   "fetched_from": "https://commons.wikimedia.org/wiki/Special:FilePath/Glessner_House,_Prairie_Avenue_and_18th_Street,_Near_South_Side,_Chicago,_IL_-_52907569502.jpg?width=3000",
+   "original_bytes": 4240491,
+   "original_px": [
+    2868,
+    3825
+   ],
+   "original_sha256": "e3ead39a8e1225df2e64336ecc4150d76abd228a0436c4c10189cf90f4131244",
+   "thumb": "research/images/files/a18-commons-glessner-prairie-18th-52907569502-thumb.jpg",
+   "thumb_bytes": 36041
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Glessner_House,_Prairie_Avenue_and_18th_Street,_Near_South_Side,_Chicago,_IL_-_52907569502.jpg",
+    "collection": "Category:John J. Glessner House",
+    "creator": "per the Wikimedia Commons file page",
+    "date": "per the Wikimedia Commons file page",
+    "repository": "Wikimedia Commons",
+    "rights": "per the Wikimedia Commons file page (free licence)",
+    "title": "Glessner House, Prairie Avenue and 18th Street (Commons, Flickr 52907569502)"
+   }
+  }
+ },
+ "a18-commons-glessnerhousenew": {
+  "local": {
+   "display": "research/images/files/a18-commons-glessnerhousenew.jpg",
+   "display_bytes": 37868,
+   "fetched": "2026-10-20",
+   "fetched_from": "https://commons.wikimedia.org/wiki/Special:FilePath/Glessnerhousenew.JPG?width=3000",
+   "original_bytes": 83496,
+   "original_px": [
+    464,
+    333
+   ],
+   "original_sha256": "446e403e3b1de457bed31903a2fcfc4841b6a960c0cf8b3e37cebcd8d8f01755",
+   "thumb": "research/images/files/a18-commons-glessnerhousenew-thumb.jpg",
+   "thumb_bytes": 28061
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Glessnerhousenew.JPG",
+    "collection": "Category:John J. Glessner House",
+    "creator": "per the Wikimedia Commons file page",
+    "date": "per the Wikimedia Commons file page",
+    "repository": "Wikimedia Commons",
+    "rights": "per the Wikimedia Commons file page (free licence)",
+    "title": "Glessner House (Commons 'Glessnerhousenew.JPG')"
+   }
+  }
+ },
  "a18-cornell-adw-glessner": {
   "local": {
    "display": "research/images/files/a18-cornell-adw-glessner.jpg",
@@ -2544,6 +2628,90 @@
     "repository": "Glessner House Museum (reproduced on its blog \"The Story of a House\")",
     "rights": "unknown — link only",
     "title": "Daniel B. Shipman house, 1828 S. Prairie Avenue, with an early automobile"
+   }
+  }
+ },
+ "a18-ghm-blog-capital-1-2013": {
+  "local": {
+   "display": "research/images/files/a18-ghm-blog-capital-1-2013.jpg",
+   "display_bytes": 88530,
+   "fetched": "2026-10-20",
+   "fetched_from": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYxEoNK8XqYNbF1_OOy4eJAAKbu2KDG2BM0pGCWD5KLelV4z82Hz8Rhk7Azk-LfaLCU2-B2ZMk77zLuXbrHz0tHdufWx2cXrAJRny58gHz3ZPnepM1vHtiO7p2XW39-sYdvEnrN2BMntY/s1600/13-02-11+capital+1.JPG",
+   "original_bytes": 123559,
+   "original_px": [
+    600,
+    676
+   ],
+   "original_sha256": "ad39d05401b7404059a572b6c22ab477d0967f670beb29577f2e399ce81c16d3",
+   "thumb": "research/images/files/a18-ghm-blog-capital-1-2013-thumb.jpg",
+   "thumb_bytes": 35272
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/02/the-stone-capitals-on-glessner-house.html",
+    "collection": "The stone capitals on Glessner House (2013-02-11)",
+    "creator": "Glessner House Museum (blog 'The Story of a House')",
+    "date": "February 2013 (post date)",
+    "repository": "Glessner House Museum",
+    "rights": "unknown — link only",
+    "title": "Glessner House second-floor capital, 1 (2013)"
+   }
+  }
+ },
+ "a18-ghm-blog-capital-2-2013": {
+  "local": {
+   "display": "research/images/files/a18-ghm-blog-capital-2-2013.jpg",
+   "display_bytes": 99860,
+   "fetched": "2026-10-20",
+   "fetched_from": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH-K8kDDA-gUZ3kkVvj6nI9D7nY8z5kfIxpYcScGfFNo8R3z5xlfDHJMYvdlyzb2u5kHxuCdrPzRJlcduPW_sh5GIOscDxnJMt3SugnyU1uOxXNnaKezrN18WuUCISe890ms5YX7ZNi2Q/s1600/13-02-11+capital+2.JPG",
+   "original_bytes": 141044,
+   "original_px": [
+    600,
+    677
+   ],
+   "original_sha256": "6adb8c7e60d90911b3201ca629d2b1276bb918423dff0a0c8c32ac7ecf3b3875",
+   "thumb": "research/images/files/a18-ghm-blog-capital-2-2013-thumb.jpg",
+   "thumb_bytes": 38535
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/02/the-stone-capitals-on-glessner-house.html",
+    "collection": "The stone capitals on Glessner House (2013-02-11)",
+    "creator": "Glessner House Museum (blog 'The Story of a House')",
+    "date": "February 2013 (post date)",
+    "repository": "Glessner House Museum",
+    "rights": "unknown — link only",
+    "title": "Glessner House second-floor capital, 2 (2013)"
+   }
+  }
+ },
+ "a18-ghm-blog-capital-hhr-2013": {
+  "local": {
+   "display": "research/images/files/a18-ghm-blog-capital-hhr-2013.jpg",
+   "display_bytes": 112899,
+   "fetched": "2026-10-20",
+   "fetched_from": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDIC2Kb7IR-eePBEtEy5rvXe33tKYDYM0W6dXNCyokToh6ATakxSXQHsK630Qc79HFRxI-kaZ87kQfVN2pSeip7jcfCso3svKMZwbAddH8ZFxeK64dKhBheJrl6RZJ3x7NS6U1DZtK3kY/s1600/13-02-11+capital+HHR.JPG",
+   "original_bytes": 158545,
+   "original_px": [
+    600,
+    822
+   ],
+   "original_sha256": "4f1a85f1f6083077e85e206c07ab4eeb2085156633ad27bf9ecc6aa80d2ff00d",
+   "thumb": "research/images/files/a18-ghm-blog-capital-hhr-2013-thumb.jpg",
+   "thumb_bytes": 31410
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://glessnerhouse.blogspot.com/2013/02/the-stone-capitals-on-glessner-house.html",
+    "collection": "The stone capitals on Glessner House (2013-02-11)",
+    "creator": "Glessner House Museum (blog 'The Story of a House')",
+    "date": "February 2013 (post date)",
+    "repository": "Glessner House Museum",
+    "rights": "unknown — link only",
+    "title": "Glessner House second-floor capital with Richardson's monogram (2013)"
    }
   }
  },
