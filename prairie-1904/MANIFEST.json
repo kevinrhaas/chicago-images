@@ -15529,6 +15529,30 @@
    "rights": "public domain",
    "rights_basis": "Exact engraving located in the 1884 US publication, not inferred solely from the modern reproduction's label. The 1884 printed illustration is public domain in the United States; no modern editorial text is reused as an asset.",
    "repository": "A. T. Andreas, History of Chicago, volume 1; digitized at Internet Archive"
+  },
+  "early-gifford-first-tremont.jpg": {
+   "bytes": 229586,
+   "sha256": "ee935a51c5cd7cfa4a07c7bf9451d79e4efffc10e0f36bdab9614ea3ce75a3ed",
+   "record": "early-gifford-first-tremont",
+   "title": "First Tremont House and street-front row — wash drawing signed N. Roswell Gifford",
+   "catalog_url": "https://chicagology.com/prefire/prefire021/",
+   "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/1290a23271b2771c77201fd17fed7cfa857ade14/chicago/reference/images/chicago/chicago_first_tremont_house_1833.jpg",
+   "fetched_from": "https://raw.githubusercontent.com/kevinrhaas/chicago/1290a23271b2771c77201fd17fed7cfa857ade14/chicago/reference/images/chicago/chicago_first_tremont_house_1833.jpg",
+   "rights": "unknown — link only",
+   "rights_basis": "Owner-approved project reference/display use, 2026-10-22: \"ok i think those images are ok to use as public resources and just make sure you include things like that in sources\". Preserve Gifford/Chicagology attribution. Original publication, holding institution, copyright status and general reuse licence remain unresolved; no public-domain finding.",
+   "repository": "Chicagology reproduction; original holding institution unrecorded"
+  },
+  "early-gifford-first-tremont-thumb.jpg": {
+   "bytes": 16397,
+   "sha256": "c61276a331c7a2e9e1812127548910b5b77a71c4be71146ad0753b7778eac16a",
+   "record": "early-gifford-first-tremont",
+   "title": "First Tremont House and street-front row — wash drawing signed N. Roswell Gifford",
+   "catalog_url": "https://chicagology.com/prefire/prefire021/",
+   "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/1290a23271b2771c77201fd17fed7cfa857ade14/chicago/reference/images/chicago/chicago_first_tremont_house_1833.jpg",
+   "fetched_from": "https://raw.githubusercontent.com/kevinrhaas/chicago/1290a23271b2771c77201fd17fed7cfa857ade14/chicago/reference/images/chicago/chicago_first_tremont_house_1833.jpg",
+   "rights": "unknown — link only",
+   "rights_basis": "Owner-approved project reference/display use, 2026-10-22: \"ok i think those images are ok to use as public resources and just make sure you include things like that in sources\". Preserve Gifford/Chicagology attribution. Original publication, holding institution, copyright status and general reuse licence remain unresolved; no public-domain finding.",
+   "repository": "Chicagology reproduction; original holding institution unrecorded"
   }
  }
 }
