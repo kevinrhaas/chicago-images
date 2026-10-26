@@ -15505,6 +15505,30 @@
    "rights": "public domain",
    "rights_basis": "Published 1905 in the U.S.; IA possible-copyright-status NOT_IN_COPYRIGHT",
    "repository": "Internet Archive (Library of Congress copy, Sloan Foundation scan)"
+  },
+  "early-moss-1884-st-marys.jpg": {
+   "bytes": 570620,
+   "sha256": "f8e09b8e14f3d0ae56ae7664233b631b142f92009d09f0e0f2c6c11e88730571",
+   "record": "early-moss-1884-st-marys",
+   "title": "Saint Mary's Church.",
+   "catalog_url": "https://archive.org/details/historyofchicago01andr",
+   "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/bffc4cff33670bde34e718751ea8712e087eef8b/chicago/reference/images/chicago/chicago_st_marys_church_1843.jpg",
+   "fetched_from": "https://raw.githubusercontent.com/kevinrhaas/chicago/bffc4cff33670bde34e718751ea8712e087eef8b/chicago/reference/images/chicago/chicago_st_marys_church_1843.jpg",
+   "rights": "public domain",
+   "rights_basis": "Exact engraving located in the 1884 US publication, not inferred solely from the modern reproduction's label. The 1884 printed illustration is public domain in the United States; no modern editorial text is reused as an asset.",
+   "repository": "A. T. Andreas, History of Chicago, volume 1; digitized at Internet Archive"
+  },
+  "early-moss-1884-st-marys-thumb.jpg": {
+   "bytes": 22068,
+   "sha256": "87c44065a3250f88008a4621e2cda22d896d2e6a81672b4242895cfeba539b67",
+   "record": "early-moss-1884-st-marys",
+   "title": "Saint Mary's Church.",
+   "catalog_url": "https://archive.org/details/historyofchicago01andr",
+   "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/bffc4cff33670bde34e718751ea8712e087eef8b/chicago/reference/images/chicago/chicago_st_marys_church_1843.jpg",
+   "fetched_from": "https://raw.githubusercontent.com/kevinrhaas/chicago/bffc4cff33670bde34e718751ea8712e087eef8b/chicago/reference/images/chicago/chicago_st_marys_church_1843.jpg",
+   "rights": "public domain",
+   "rights_basis": "Exact engraving located in the 1884 US publication, not inferred solely from the modern reproduction's label. The 1884 printed illustration is public domain in the United States; no modern editorial text is reused as an asset.",
+   "repository": "A. T. Andreas, History of Chicago, volume 1; digitized at Internet Archive"
   }
  }
 }
