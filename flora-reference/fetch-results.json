@@ -1,4 +1,31 @@
 {
+ "bioimages-ulmus-americana-11688": {
+  "local": {
+   "display": "research/images/files/bioimages-ulmus-americana-11688.jpg",
+   "display_bytes": 62320,
+   "fetched": "2026-10-29",
+   "fetched_from": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--lf11688.jpg",
+   "original_bytes": 186780,
+   "original_px": [
+    683,
+    1024
+   ],
+   "original_sha256": "0cb9e4e39e9dc7105fa72a1239c54c33cf140b51a9e103054966f398860b8fa4",
+   "thumb": "research/images/files/bioimages-ulmus-americana-11688-thumb.jpg",
+   "thumb_bytes": 13242
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/11688.htm",
+    "creator": "Steven J. Baskauf",
+    "date": "2002-06-02",
+    "repository": "Bioimages, Vanderbilt University",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "title": "Ulmus americana (American elm): one leaf, whole upper surface (Great Smoky Mountains)"
+   }
+  }
+ },
  "bioimages-ulmus-americana-15227": {
   "local": {
    "display": "research/images/files/bioimages-ulmus-americana-15227.jpg",
@@ -131,6 +158,60 @@
     "repository": "Bioimages, Vanderbilt University",
     "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
     "title": "Ulmus americana (American elm): leaves on a twig, showing their orientation"
+   }
+  }
+ },
+ "bioimages-ulmus-americana-89388": {
+  "local": {
+   "display": "research/images/files/bioimages-ulmus-americana-89388.jpg",
+   "display_bytes": 243189,
+   "fetched": "2026-10-29",
+   "fetched_from": "http://bioimages.vanderbilt.edu/gq/baskauf/g89388.jpg",
+   "original_bytes": 472006,
+   "original_px": [
+    683,
+    1024
+   ],
+   "original_sha256": "1706d81fc7f553c696c5c5ce869bfbc2b9846053eb280e6f2e9ddcaadfabb094",
+   "thumb": "research/images/files/bioimages-ulmus-americana-89388-thumb.jpg",
+   "thumb_bytes": 39832
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/89388.htm",
+    "creator": "Steven J. Baskauf",
+    "date": "2013-12-11",
+    "repository": "Bioimages, Vanderbilt University",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "title": "Ulmus americana (American elm): whole tree in winter, its limbs bare"
+   }
+  }
+ },
+ "bioimages-ulmus-americana-90975": {
+  "local": {
+   "display": "research/images/files/bioimages-ulmus-americana-90975.jpg",
+   "display_bytes": 1890976,
+   "fetched": "2026-10-29",
+   "fetched_from": "https://zenodo.org/records/11041576/files/90975.jpg?download=1",
+   "original_bytes": 5979800,
+   "original_px": [
+    2304,
+    3456
+   ],
+   "original_sha256": "776eb9e5a27cc05aad6c81977ecbcd221351c7d26491a0366e356f1231fffd02",
+   "thumb": "research/images/files/bioimages-ulmus-americana-90975-thumb.jpg",
+   "thumb_bytes": 38398
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/90975.htm",
+    "creator": "Steven J. Baskauf",
+    "date": "2014-09-03",
+    "repository": "Bioimages, Vanderbilt University",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "title": "Ulmus americana (American elm): whole tree in summer leaf, general view"
    }
   }
  }
