@@ -28,12 +28,13 @@ jobs:
           python-version: '3.12'
       - run: pip install Pillow
       - name: fetch
-        run: python3 tools/fetch_queue.py prairie-1904 ${{ inputs.retry && '--retry' || '' }}
+        # Every collection with a queue (prairie-1904; flora-reference since 2026-10-29, chicago T-3247).
+        run: for q in */fetch-queue.json; do python3 tools/fetch_queue.py "$(dirname "$q")" ${{ inputs.retry && '--retry' || '' }}; done
       - name: commit
         run: |
           git config user.name "chicago-images fetch"
           git config user.email "actions@users.noreply.github.com"
-          git add prairie-1904/files prairie-1904/fetch-results.json
+          git add */files */fetch-results.json
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
-          git commit -m "prairie-1904: reference copies fetched from the queue ($(git diff --cached --name-only -- prairie-1904/files | grep -vc thumb) images)"
+          git commit -m "reference copies fetched from the queue ($(git diff --cached --name-only -- '*/files' | grep -vc thumb) images)"
           git push origin HEAD:${{ github.ref_name }}

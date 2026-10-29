@@ -1,0 +1,80 @@
+{
+ "_doc": "Plant reference pictures for 4D Chicago's grown trees (kevinrhaas/chicago T-3247; owner 2026-10-29: \"if you download and find elm trees you should be able to improve it\"). Each entry's licence is its own credit.rights; only CC0, public-domain or CC BY pictures are queued here, so a leaf texture may be derived from them with the credit carried into chicago/4d/assets/LICENSES.md.",
+ "queue": [
+  {
+   "id": "bioimages-ulmus-americana-15227",
+   "url": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--lfseveral15227.jpg",
+   "max": 3000,
+   "credit": {
+    "title": "Ulmus americana (American elm): leaves on a twig, showing their orientation",
+    "creator": "Steven J. Baskauf",
+    "date": "2002-09-09",
+    "repository": "Bioimages, Vanderbilt University",
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/15227.htm",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+   },
+   "species": "ulmus_americana",
+   "kind": "photograph"
+  },
+  {
+   "id": "bioimages-ulmus-americana-55141",
+   "url": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--twno-flower-buds55141.jpg",
+   "max": 3000,
+   "credit": {
+    "title": "Ulmus americana (American elm): leaves on a twig, showing their orientation",
+    "creator": "Steven J. Baskauf",
+    "date": "2006-08-16",
+    "repository": "Bioimages, Vanderbilt University",
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/55141.htm",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+   },
+   "species": "ulmus_americana",
+   "kind": "photograph"
+  },
+  {
+   "id": "bioimages-ulmus-americana-55139",
+   "url": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--twno-flower-buds-dist55139.jpg",
+   "max": 3000,
+   "credit": {
+    "title": "Ulmus americana (American elm): leaves on a twig, from further off",
+    "creator": "Steven J. Baskauf",
+    "date": "2006-08-16",
+    "repository": "Bioimages, Vanderbilt University",
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/55139.htm",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+   },
+   "species": "ulmus_americana",
+   "kind": "photograph"
+  },
+  {
+   "id": "bioimages-ulmus-americana-15238",
+   "url": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--lf15238.jpg",
+   "max": 3000,
+   "credit": {
+    "title": "Ulmus americana (American elm): one leaf, whole upper surface",
+    "creator": "Steven J. Baskauf",
+    "date": "2002-09-09",
+    "repository": "Bioimages, Vanderbilt University",
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/15238.htm",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+   },
+   "species": "ulmus_americana",
+   "kind": "photograph"
+  },
+  {
+   "id": "bioimages-ulmus-americana-15230",
+   "url": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--lfmargin-uplow15230.jpg",
+   "max": 3000,
+   "credit": {
+    "title": "Ulmus americana (American elm): leaf margin, upper and lower surface",
+    "creator": "Steven J. Baskauf",
+    "date": "2002-09-09",
+    "repository": "Bioimages, Vanderbilt University",
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/15230.htm",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+   },
+   "species": "ulmus_americana",
+   "kind": "photograph"
+  }
+ ]
+}
