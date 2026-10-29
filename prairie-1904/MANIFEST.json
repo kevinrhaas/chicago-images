@@ -15649,6 +15649,54 @@
       "rights": "unknown — link only",
       "rights_basis": "Original artist, publication date, holding institution and copyright status remain unverified. Explicit project-owner approval 2026-10-22 permits attributed project reference/comparison/source display. This is neither a public-domain finding nor copyright-holder permission or a general redistribution licence. The structured reference-copy basis below records the limited project use.",
       "repository": "Digital Research Library of Illinois History Journal (reproduction); original holding unknown"
+    },
+    "early-green-tree-andreas-1884-thumb.jpg": {
+      "bytes": 23053,
+      "sha256": "8e3f8f67cc69298cbc1bc57507af073372a01720cf581102e3df5aa696bd964b",
+      "record": "early-green-tree-andreas-1884",
+      "title": "The Green Tree Hotel — Andreas 1884 engraving",
+      "catalog_url": "https://archive.org/details/historyofchicago01andr/page/n1301/mode/1up",
+      "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/7c5f2109cc1db6a86e23d76b4127385b587adcee/chicago/reference/images/chicago/chicago_green_tree_inn_1838.jpg",
+      "fetched_from": "https://raw.githubusercontent.com/kevinrhaas/chicago/7c5f2109cc1db6a86e23d76b4127385b587adcee/chicago/reference/images/chicago/chicago_green_tree_inn_1838.jpg",
+      "rights": "public domain",
+      "rights_basis": "Underlying engraving was published in the United States in A. T. Andreas, History of Chicago, volume 1, 1884, p. 634, and is public domain in the United States by publication age. This is the unchanged held reproduction, not a newly recovered original or a claim of copyright ownership in a modern reproduction. The original plate supplies no 1838 date or legible artist signature.",
+      "repository": "A. T. Andreas, History of Chicago, volume 1 (1884), p. 634; scanned volume at Internet Archive"
+    },
+    "early-green-tree-andreas-1884.jpg": {
+      "bytes": 970135,
+      "sha256": "bfaa184f9043ea94560eb74e44926c631f06338bc90e6ba54951a610edef119a",
+      "record": "early-green-tree-andreas-1884",
+      "title": "The Green Tree Hotel — Andreas 1884 engraving",
+      "catalog_url": "https://archive.org/details/historyofchicago01andr/page/n1301/mode/1up",
+      "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/7c5f2109cc1db6a86e23d76b4127385b587adcee/chicago/reference/images/chicago/chicago_green_tree_inn_1838.jpg",
+      "fetched_from": "https://raw.githubusercontent.com/kevinrhaas/chicago/7c5f2109cc1db6a86e23d76b4127385b587adcee/chicago/reference/images/chicago/chicago_green_tree_inn_1838.jpg",
+      "rights": "public domain",
+      "rights_basis": "Underlying engraving was published in the United States in A. T. Andreas, History of Chicago, volume 1, 1884, p. 634, and is public domain in the United States by publication age. This is the unchanged held reproduction, not a newly recovered original or a claim of copyright ownership in a modern reproduction. The original plate supplies no 1838 date or legible artist signature.",
+      "repository": "A. T. Andreas, History of Chicago, volume 1 (1884), p. 634; scanned volume at Internet Archive"
+    },
+    "early-green-tree-trowbridge-1902-thumb.jpg": {
+      "bytes": 18147,
+      "sha256": "e35230a54c0c498469392da65a6fc825c6fde43c737c082372f81bd948a1f0d3",
+      "record": "early-green-tree-trowbridge-1902",
+      "title": "The Green Tree Tavern in 1835 — Trowbridge, published 1902",
+      "catalog_url": "https://archive.org/details/reminiscencesofe00ingale/page/n55/mode/1up",
+      "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/7c5f2109cc1db6a86e23d76b4127385b587adcee/chicago/reference/images/chicago/chicago_green_tree_tavern_1835.jpg",
+      "fetched_from": "https://raw.githubusercontent.com/kevinrhaas/chicago/7c5f2109cc1db6a86e23d76b4127385b587adcee/chicago/reference/images/chicago/chicago_green_tree_tavern_1835.jpg",
+      "rights": "public domain",
+      "rights_basis": "The exact illustration, title-page illustrator credit and 1902 United States copyright/publication pages were verified together in Edwin O. Gale, Reminiscences of Early Chicago and Vicinity. The underlying 1902 artwork is public domain in the United States by publication age. This unchanged held reproduction makes no claim about modern stock-reproduction ownership.",
+      "repository": "Edwin O. Gale, Reminiscences of Early Chicago and Vicinity (Chicago: Fleming H. Revell, 1902), plate facing p. 35; Internet Archive"
+    },
+    "early-green-tree-trowbridge-1902.jpg": {
+      "bytes": 573274,
+      "sha256": "4d027d462b37b682d62cfa640083f2688d1b2dd9bba9ca39dc1dc979c2234225",
+      "record": "early-green-tree-trowbridge-1902",
+      "title": "The Green Tree Tavern in 1835 — Trowbridge, published 1902",
+      "catalog_url": "https://archive.org/details/reminiscencesofe00ingale/page/n55/mode/1up",
+      "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/7c5f2109cc1db6a86e23d76b4127385b587adcee/chicago/reference/images/chicago/chicago_green_tree_tavern_1835.jpg",
+      "fetched_from": "https://raw.githubusercontent.com/kevinrhaas/chicago/7c5f2109cc1db6a86e23d76b4127385b587adcee/chicago/reference/images/chicago/chicago_green_tree_tavern_1835.jpg",
+      "rights": "public domain",
+      "rights_basis": "The exact illustration, title-page illustrator credit and 1902 United States copyright/publication pages were verified together in Edwin O. Gale, Reminiscences of Early Chicago and Vicinity. The underlying 1902 artwork is public domain in the United States by publication age. This unchanged held reproduction makes no claim about modern stock-reproduction ownership.",
+      "repository": "Edwin O. Gale, Reminiscences of Early Chicago and Vicinity (Chicago: Fleming H. Revell, 1902), plate facing p. 35; Internet Archive"
     }
   }
 }
