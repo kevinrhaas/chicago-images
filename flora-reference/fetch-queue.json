@@ -75,6 +75,51 @@
    },
    "species": "ulmus_americana",
    "kind": "photograph"
+  },
+  {
+   "id": "bioimages-ulmus-americana-90975",
+   "url": "https://zenodo.org/records/11041576/files/90975.jpg?download=1",
+   "max": 4000,
+   "credit": {
+    "title": "Ulmus americana (American elm): whole tree in summer leaf, general view",
+    "creator": "Steven J. Baskauf",
+    "date": "2014-09-03",
+    "repository": "Bioimages, Vanderbilt University",
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/90975.htm",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+   },
+   "species": "ulmus_americana",
+   "kind": "photograph"
+  },
+  {
+   "id": "bioimages-ulmus-americana-89388",
+   "url": "http://bioimages.vanderbilt.edu/gq/baskauf/g89388.jpg",
+   "max": 3000,
+   "credit": {
+    "title": "Ulmus americana (American elm): whole tree in winter, its limbs bare",
+    "creator": "Steven J. Baskauf",
+    "date": "2013-12-11",
+    "repository": "Bioimages, Vanderbilt University",
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/89388.htm",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+   },
+   "species": "ulmus_americana",
+   "kind": "photograph"
+  },
+  {
+   "id": "bioimages-ulmus-americana-11688",
+   "url": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--lf11688.jpg",
+   "max": 3000,
+   "credit": {
+    "title": "Ulmus americana (American elm): one leaf, whole upper surface (Great Smoky Mountains)",
+    "creator": "Steven J. Baskauf",
+    "date": "2002-06-02",
+    "repository": "Bioimages, Vanderbilt University",
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/11688.htm",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)"
+   },
+   "species": "ulmus_americana",
+   "kind": "photograph"
   }
  ]
 }
