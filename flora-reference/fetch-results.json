@@ -1,0 +1,137 @@
+{
+ "bioimages-ulmus-americana-15227": {
+  "local": {
+   "display": "research/images/files/bioimages-ulmus-americana-15227.jpg",
+   "display_bytes": 104623,
+   "fetched": "2026-10-29",
+   "fetched_from": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--lfseveral15227.jpg",
+   "original_bytes": 186209,
+   "original_px": [
+    683,
+    1024
+   ],
+   "original_sha256": "9c87ee7d59c2896a523d1d864ce5e99d4a9319f710b0c9f2e0b28e6743cf15c9",
+   "thumb": "research/images/files/bioimages-ulmus-americana-15227-thumb.jpg",
+   "thumb_bytes": 22620
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/15227.htm",
+    "creator": "Steven J. Baskauf",
+    "date": "2002-09-09",
+    "repository": "Bioimages, Vanderbilt University",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "title": "Ulmus americana (American elm): leaves on a twig, showing their orientation"
+   }
+  }
+ },
+ "bioimages-ulmus-americana-15230": {
+  "local": {
+   "display": "research/images/files/bioimages-ulmus-americana-15230.jpg",
+   "display_bytes": 106783,
+   "fetched": "2026-10-29",
+   "fetched_from": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--lfmargin-uplow15230.jpg",
+   "original_bytes": 210380,
+   "original_px": [
+    1024,
+    683
+   ],
+   "original_sha256": "e1653d05a4b6408dafbedd060640b562be6bd1657a226f8a9bef8a828a4930fb",
+   "thumb": "research/images/files/bioimages-ulmus-americana-15230-thumb.jpg",
+   "thumb_bytes": 18663
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/15230.htm",
+    "creator": "Steven J. Baskauf",
+    "date": "2002-09-09",
+    "repository": "Bioimages, Vanderbilt University",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "title": "Ulmus americana (American elm): leaf margin, upper and lower surface"
+   }
+  }
+ },
+ "bioimages-ulmus-americana-15238": {
+  "local": {
+   "display": "research/images/files/bioimages-ulmus-americana-15238.jpg",
+   "display_bytes": 99751,
+   "fetched": "2026-10-29",
+   "fetched_from": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--lf15238.jpg",
+   "original_bytes": 183949,
+   "original_px": [
+    683,
+    1024
+   ],
+   "original_sha256": "4e9debd9bb89c3900ab3d0110bcc42a65af5c660b5fd0834aaebbd17a2c41031",
+   "thumb": "research/images/files/bioimages-ulmus-americana-15238-thumb.jpg",
+   "thumb_bytes": 19345
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/15238.htm",
+    "creator": "Steven J. Baskauf",
+    "date": "2002-09-09",
+    "repository": "Bioimages, Vanderbilt University",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "title": "Ulmus americana (American elm): one leaf, whole upper surface"
+   }
+  }
+ },
+ "bioimages-ulmus-americana-55139": {
+  "local": {
+   "display": "research/images/files/bioimages-ulmus-americana-55139.jpg",
+   "display_bytes": 90393,
+   "fetched": "2026-10-29",
+   "fetched_from": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--twno-flower-buds-dist55139.jpg",
+   "original_bytes": 174064,
+   "original_px": [
+    1024,
+    683
+   ],
+   "original_sha256": "314182910dac45a858671e1fa76ab6684376125657bb4b99f22ddc0ce25234e5",
+   "thumb": "research/images/files/bioimages-ulmus-americana-55139-thumb.jpg",
+   "thumb_bytes": 18282
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/55139.htm",
+    "creator": "Steven J. Baskauf",
+    "date": "2006-08-16",
+    "repository": "Bioimages, Vanderbilt University",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "title": "Ulmus americana (American elm): leaves on a twig, from further off"
+   }
+  }
+ },
+ "bioimages-ulmus-americana-55141": {
+  "local": {
+   "display": "research/images/files/bioimages-ulmus-americana-55141.jpg",
+   "display_bytes": 104262,
+   "fetched": "2026-10-29",
+   "fetched_from": "http://bioimages.vanderbilt.edu/gq/baskauf/gulam--twno-flower-buds55141.jpg",
+   "original_bytes": 204335,
+   "original_px": [
+    1024,
+    683
+   ],
+   "original_sha256": "272cdcd38f84a78e7cbed47e955c7b93909b041b02a84fddfd2c16d4978f670b",
+   "thumb": "research/images/files/bioimages-ulmus-americana-55141-thumb.jpg",
+   "thumb_bytes": 20449
+  },
+  "reference_copy": {
+   "basis": "owner, 2026-10-11: reference copy with attribution (kevinrhaas/chicago T-2368)",
+   "credit": {
+    "catalog_url": "https://bioimages.vanderbilt.edu/baskauf/55141.htm",
+    "creator": "Steven J. Baskauf",
+    "date": "2006-08-16",
+    "repository": "Bioimages, Vanderbilt University",
+    "rights": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+    "title": "Ulmus americana (American elm): leaves on a twig, showing their orientation"
+   }
+  }
+ }
+}
