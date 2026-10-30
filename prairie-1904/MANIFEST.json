@@ -14498,6 +14498,54 @@
    "rights_basis": "The actual plate was located and visually inspected in the 1842 edition's scanned microfiche surrogate. IA identifies the book as Castelnau, Paris:A.Bertrand, 1842; title-page OCR independently reads M D CCC XLII. The 1842 illustration is public domain in the US by publication age. Commons also marks its reproduction public domain. No modern editorial image is substituted as historic evidence.",
    "repository": "Castelnau, published by Arthus Bertrand, Paris (1842); Commons reproduction"
   },
+  "early-dearborn-andreas-1884-thumb.jpg": {
+   "bytes": 23734,
+   "sha256": "f5d850f4bddb0fe7439f9023254a98f9950b601f9a03714eaa117ae170935248",
+   "record": "early-dearborn-andreas-1884",
+   "title": "DEARBORN STREET DRAWBRIDGE, BUILT IN 1834.",
+   "catalog_url": "https://archive.org/details/historyofchicago01andr/page/n1295/mode/1up",
+   "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/02e303c2188e4a4a32fb807a28e9b07d78a8c23d/chicago/reference/images/chicago/chicago_dearborn_drawbridge_1834.png",
+   "fetched_from": "file:///workspace/t2372-parallel-native-20261030/chicago/reference/images/chicago/chicago_dearborn_drawbridge_1834.png",
+   "rights": "public domain",
+   "rights_basis": "Published 1884 in the United States, so the volume and its plates are out of copyright by age; the parent record `andreas_1884_v1` is already graded `public_domain` on the same ground. The Sauganash plate carries an in-plate copyright line naming A. T. Andreas — a claim made in 1884 and long expired, and it is recorded because it is on the plate, not because it bites. This is what going to the volume buys over an aggregator: the rights question is settled by the imprint instead of left open.",
+   "repository": "reproduced in Andreas 1884 vol. 1; scanned copy at archive.org"
+  },
+  "early-dearborn-andreas-1884.jpg": {
+   "bytes": 352974,
+   "sha256": "75e87b7675d986d57ac5ae36b3429fe8f27098fdb620251093077ce0fec92869",
+   "record": "early-dearborn-andreas-1884",
+   "title": "DEARBORN STREET DRAWBRIDGE, BUILT IN 1834.",
+   "catalog_url": "https://archive.org/details/historyofchicago01andr/page/n1295/mode/1up",
+   "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/02e303c2188e4a4a32fb807a28e9b07d78a8c23d/chicago/reference/images/chicago/chicago_dearborn_drawbridge_1834.png",
+   "fetched_from": "file:///workspace/t2372-parallel-native-20261030/chicago/reference/images/chicago/chicago_dearborn_drawbridge_1834.png",
+   "rights": "public domain",
+   "rights_basis": "Published 1884 in the United States, so the volume and its plates are out of copyright by age; the parent record `andreas_1884_v1` is already graded `public_domain` on the same ground. The Sauganash plate carries an in-plate copyright line naming A. T. Andreas — a claim made in 1884 and long expired, and it is recorded because it is on the plate, not because it bites. This is what going to the volume buys over an aggregator: the rights question is settled by the imprint instead of left open.",
+   "repository": "reproduced in Andreas 1884 vol. 1; scanned copy at archive.org"
+  },
+  "early-dearborn-earle-1902-thumb.jpg": {
+   "bytes": 21828,
+   "sha256": "e25173892d1bc87b0ceb5e3325051cbb72b338fdf3cda1e194a00c17e44bda0a",
+   "record": "early-dearborn-earle-1902",
+   "title": "DEARBORN STREET BRIDGE.",
+   "catalog_url": "https://archive.org/details/chicagohistorica00chic/page/n24/mode/1up",
+   "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/02e303c2188e4a4a32fb807a28e9b07d78a8c23d/chicago/reference/images/chicago/chicago_first_swing_bridge_1849_earle.jpg",
+   "fetched_from": "file:///workspace/t2372-parallel-native-20261030/chicago/reference/images/chicago/chicago_first_swing_bridge_1849_earle.jpg",
+   "rights": "public domain",
+   "rights_basis": "The exact underlying artwork is independently present in a US book catalogued c1902 by Internet Archive/University of Illinois, creator Chicago National Bank, publisher Chicago: Rand, McNally & Co. Direct page reads establish the title, Chicago printer imprint, Earle attribution and exact colour plate; no explicit dated copyright/imprint leaf was located or is claimed. The c1902 catalogue date also agrees with Chicagology's1902 credit. This supports pre1930 US publication and public-domain underlying artwork by age. It does not license a separate modern museum/stock photograph, added restoration/layout or a provider's service; use the identified original-volume scan/reference with attribution.",
+   "repository": "University of Illinois Urbana-Champaign scan at Internet Archive, chicagohistorica00chic; catalogue date c1902"
+  },
+  "early-dearborn-earle-1902.jpg": {
+   "bytes": 346022,
+   "sha256": "e4af254235c25c30bff97d51cdf29aceb6d762c5f8ff4de7268c650ecb78322f",
+   "record": "early-dearborn-earle-1902",
+   "title": "DEARBORN STREET BRIDGE.",
+   "catalog_url": "https://archive.org/details/chicagohistorica00chic/page/n24/mode/1up",
+   "image_url": "https://raw.githubusercontent.com/kevinrhaas/chicago/02e303c2188e4a4a32fb807a28e9b07d78a8c23d/chicago/reference/images/chicago/chicago_first_swing_bridge_1849_earle.jpg",
+   "fetched_from": "file:///workspace/t2372-parallel-native-20261030/chicago/reference/images/chicago/chicago_first_swing_bridge_1849_earle.jpg",
+   "rights": "public domain",
+   "rights_basis": "The exact underlying artwork is independently present in a US book catalogued c1902 by Internet Archive/University of Illinois, creator Chicago National Bank, publisher Chicago: Rand, McNally & Co. Direct page reads establish the title, Chicago printer imprint, Earle attribution and exact colour plate; no explicit dated copyright/imprint leaf was located or is claimed. The c1902 catalogue date also agrees with Chicagology's1902 credit. This supports pre1930 US publication and public-domain underlying artwork by age. It does not license a separate modern museum/stock photograph, added restoration/layout or a provider's service; use the identified original-volume scan/reference with attribution.",
+   "repository": "University of Illinois Urbana-Champaign scan at Internet Archive, chicagohistorica00chic; catalogue date c1902"
+  },
   "early-eliza-chappel-school-shore-reference-thumb.jpg": {
    "bytes": 18017,
    "sha256": "dc7f62ba142f97337c26dc9f5ea38293fe277f3140a31926a5f3c31a8d91880d",
