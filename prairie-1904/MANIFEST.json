@@ -14354,6 +14354,30 @@
    "rights_basis": "Published 1884 in the United States, so the volume and its plates are out of copyright by age; the parent record `andreas_1884_v1` is already graded `public_domain` on the same ground. The Sauganash plate carries an in-plate copyright line naming A. T. Andreas — a claim made in 1884 and long expired, and it is recorded because it is on the plate, not because it bites. This is what going to the volume buys over an aggregator: the rights question is settled by the imprint instead of left open.",
    "repository": "A. T. Andreas, History of Chicago, volume 1; digitized at Internet Archive"
   },
+  "early-beaubien-keyed-1831-thumb.jpg": {
+   "bytes": 25996,
+   "sha256": "9e0dbb1020b0c25e48331c9a8e7bd33615249b927fe8bad39d1914167fbb89b5",
+   "record": "early-beaubien-keyed-1831",
+   "title": "Fort Dearborn and Chicago in1831 — keyed Gen.J.B.Beaubien house",
+   "catalog_url": "https://archive.org/stream/earlychicagofort00wentiala#page/86/mode/1up",
+   "image_url": null,
+   "fetched_from": "file:///workspace/chicago/chicago/reference/images/chicago/chicago_fort_dearborn_1831_1.jpg",
+   "rights": "public domain",
+   "rights_basis": "The committed inventory chicago/reference/images/IMAGE_SOURCES.md identifies the image as public domain by pre-1930 publication. The underlying Wau-Bun illustration is nineteenth-century. The separately advertised Getty/Alamy reproductions are not acquired or licensed by this record.",
+   "repository": "Internet Archive, digitized Fergus Historical Series pamphlet; keyed reproduction also held on Wikimedia Commons"
+  },
+  "early-beaubien-keyed-1831.jpg": {
+   "bytes": 262256,
+   "sha256": "20c2baf03a905b446b76da3e75cf37f235a9e201b7a8a824f159a7d820d12d2c",
+   "record": "early-beaubien-keyed-1831",
+   "title": "Fort Dearborn and Chicago in1831 — keyed Gen.J.B.Beaubien house",
+   "catalog_url": "https://archive.org/stream/earlychicagofort00wentiala#page/86/mode/1up",
+   "image_url": null,
+   "fetched_from": "file:///workspace/chicago/chicago/reference/images/chicago/chicago_fort_dearborn_1831_1.jpg",
+   "rights": "public domain",
+   "rights_basis": "The committed inventory chicago/reference/images/IMAGE_SOURCES.md identifies the image as public domain by pre-1930 publication. The underlying Wau-Bun illustration is nineteenth-century. The separately advertised Getty/Alamy reproductions are not acquired or licensed by this record.",
+   "repository": "Internet Archive, digitized Fergus Historical Series pamphlet; keyed reproduction also held on Wikimedia Commons"
+  },
   "early-blanchard-shober-1867-wolf-point-thumb.jpg": {
    "bytes": 16471,
    "sha256": "d8fbf745318f7f2ede8428c90f7a453d5f606c7badbf9b8cda7a271612808be2",
