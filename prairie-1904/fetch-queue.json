@@ -4268,6 +4268,24 @@
    ],
    "kind": "photograph",
    "view": "front"
+  },
+  {
+   "id": "early-currey-1912-first-fort-birdseye",
+   "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Birds_eye_view_of_first_Fort_Dearborn.jpg",
+   "max": 3000,
+   "stream": "stream-early-first-fort-birdseye.json",
+   "credit": {
+    "title": "Bird’s-Eye View of Old Fort Dearborn (the first fort, 1803–1812), a numbered reconstruction",
+    "creator": "Illustrator uncredited; after a Chicago Daily Tribune drawing (5 March 1899) of Albert L. Van den Berghen’s 1898 model",
+    "date": "1912 publication; depicts 1803–1812 retrospectively",
+    "repository": "Wikimedia Commons, File:Birds_eye_view_of_first_Fort_Dearborn.jpg",
+    "collection": "J. Seymour Currey, The Story of Old Fort Dearborn (A. C. McClurg, 1912), p. 27",
+    "catalog_url": "https://commons.wikimedia.org/wiki/File:Birds_eye_view_of_first_Fort_Dearborn.jpg",
+    "rights": "public domain"
+   },
+   "building_ids": [],
+   "kind": "illustration",
+   "view": "aerial"
   }
  ]
 }
